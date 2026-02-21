@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 19-02-2026)",
+    "author": "chuky (Actualizada al 21-02-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -85,61 +85,61 @@
             "stations": [{
                                 "name": "Evento 1",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL1",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD1",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                          }, {  
 			 "name": "Evento 2",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL2",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD2",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                          }, {  
                      "name": "Evento 3",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL3",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD3",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                          }, {  
                          "name": "Evento 4",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL4",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD4",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                          }, {  
                         "name": "Evento 5",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL5",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD5",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                         }, {
 			 "name": "Evento 6",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL6",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD6",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                         }, {
 			 "name": "Evento 7",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL7",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD7",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                          }, {  
                                                      "name": "Evento 8",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL8",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD8",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                         }, {
 			 "name": "Evento 9",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL9",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD9",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
                         }, {
 			 "name": "Evento 10",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instreams.click/jwp-us.php?stream=NFL10",
+	               "url" : "https://instreams.click/jwp-us.php?stream=NFLHD10",
                                                       "referer" : "https://streamingon.org/",
 			"isHost": "true"
 		}]
