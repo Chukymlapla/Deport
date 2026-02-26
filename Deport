@@ -480,21 +480,21 @@
 		"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
 		"info": "",
 		"stations": [{
-                                   "name": "Campeones 1",
+                                  "name": "Campeones 1",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			"url" :  "https://dishtrainer.net/embed/vphgx5j98j",
+               			"url" :  "https://dishtrainer.net/embed/g85mrc01p",
 		                  "referer" : "https://bolaloca.my/",
 			 "isHost":"true"
                                  }, {
                                  "name": "Campeones 2",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			   "url" :  "https://dishtrainer.net/embed/zl7czsra5l0",
+               			   "url" :  "https://dishtrainer.net/embed/r0zijuje2llg07a",
 		                  "referer" : "https://bolaloca.my/",
 			 "isHost":"true"
                                  }, {
                            "name": "Campeones 3",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			  "url" :  "https://dishtrainer.net/embed/z88ks",
+               			  "url" :  "https://dishtrainer.net/embed/hatlrm",
 		                  "referer" : "https://bolaloca.my/",
 			 "isHost":"true"
                                       }, {
@@ -638,7 +638,7 @@
                      }, {
                                                       "name": "Multiuefa",
 			"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-			  "url" :  "https://dishtrainer.net/embed/z88ks",
+		  "url" :  "https://dishtrainer.net/embed/hatlrm",
 		                  "referer" : "https://bolaloca.my/",
 			 "isHost":"true"
                       }]
