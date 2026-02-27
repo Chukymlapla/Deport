@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 26-02-2026)",
+    "author": "chuky (Actualizada al 27-02-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -9,11 +9,11 @@
             "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
             "info": "",
             "stations": [{}]
-                   }, {
-		"name": "Liga NBA 🏀 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                  "name": "Liga NBA 🏀 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
 		"image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
 		"info": "",
 		"stations": [{
+         }, { 
                                    "name": "Partidos NBA 🏀",
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
@@ -480,7 +480,7 @@
 		"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
 		"info": "",
 		"stations": [{
-                                  "name": "Campeones 1",
+                                   "name": "Campeones 1",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
                			"url" :  "https://dishtrainer.net/embed/g85mrc01p",
 		                  "referer" : "https://bolaloca.my/",
@@ -638,7 +638,7 @@
                      }, {
                                                       "name": "Multiuefa",
 			"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-		  "url" :  "https://dishtrainer.net/embed/hatlrm",
+			   "url" :  "https://dishtrainer.net/embed/hatlrm",
 		                  "referer" : "https://bolaloca.my/",
 			 "isHost":"true"
                       }]
@@ -839,6 +839,13 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" :  "https://toneassertive.net/embed/orfaxhrsmbdogv?color=45A5F4",
                             "referer" : "https://hardtv.site/",
+                                                       "isHost" : "true"
+                                     }, {
+			"name": "La de España (opción 11)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" :  "https://dishtrainer.net/embed/l57xdb4wvi930cf",
+                            "referer" : "https://pepperz.space/",
                                                        "isHost" : "true"
                                                         }, {
 			"name": "La de España 2",
@@ -1183,7 +1190,7 @@
                   	 "url" :  "https://rockhd.lol/live/stream-537.php",
 			 "isHost":"true"  
                                       }, {
-                  	"name": "M-F1(OP-7 Movil)",
+                  	"name": "M-F1(Opción Movil)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/motorsport/formula-1-1810246/fia-formula-1-2024-a.html?icg=RVM",
@@ -1194,72 +1201,75 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://flstv.online//embed/formula1.php",
 		"referer" : "https://flstv.online/",
-			 "isHost":"true"
-		}, {
-			"name": "M-F1-Inglés",
-			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           		 "url" :  "https://usgate.xyz/z/p2p/az10.php",
-			 "isHost":"true"  
-                             }, {
-			"name": "Rally TV",		
-                      "image":"https://i.ibb.co/cX1dpQw4/rally-tv.webp",
-                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",	 
-   "url" : "https://stocklunch.net/embed/4zg4w327eurj8nk",
-                  "referer" : "https://glisco.link/",
-            "isHost": "true"		
+			 "isHost":"true"	
 	              }, {
-			"name": "Moto GP",
+			"name": "Moto GP OP 1",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                              "url" : "https://dishtrainer.net/embed/h5m4gyv36vtc",
+                              "url" : "https://articulatebreak.net/embed/2twhx",
 		        "referer": "https://bolaloca.my/",
              "isHost": "true"
-                       }, {
-			"name": "29",        
-			"name": "Moto GP",
+                       }, {       
+			"name": "Moto GP Op 2",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                          "url" : "https://stocklunch.net/embed/wnm78ydq",
-                    "referer" : "https://glisco.link/",
-			"isHost" : "true"
+			             "url" : "https://dishtrainer.net/embed/6na79kddf",
+            "referer":"https://bolaloca.my/",
+              "isHost" : "true"
+                          }, {
+			"name": "Moto GP OP 3",
+			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                        "url" : "https://admitsettle.net/embed/485ayycb",
+             "referer" : "https://elixx.link/",
+            "isHost": "true"  
                       }, {
-			"name": "Moto GP",
+			"name": "Moto GP OP 4",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-         				 "url": "https://dishtrainer.net/embed/h5m4gyv36vtc",
-               "referer" : "https://hoyfutbol.info/",
-			"isHost": "true" 
+         				"url" :  "https://minhatelinha.net/assistir-espn-4-ao-vivo-online-gratis-24-horas-hd/"
                       }, {
-			"name": "Moto GP",
+			"name": "Moto GP Op 5",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                        "url" : "https://stocklunch.net/embed/av8q3fwxcb",
+                        "url" : "https://stocklunch.net/embed/h1gn2",
              "referer" : "https://glisco.link/",
             "isHost": "true"  
                       }, {
-			"name": "Moto GP",
+			"name": "Moto GP Op 6",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                       "url" : "https://stocklunch.net/embed/h1gn2",
-                    "referer" : "https://glisco.link/",
-			"isHost" : "true"
+                    "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                       }, {
-			"name": "Moto GP",
+			"name": "Moto GP Op 7",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                        "url" : "https://toneassertive.net/embed/vds3r5eg?color=ffb400",
                     "referer" : "https://welivesports.shop/",
 			"isHost" : "true"
+                      }, {
+			"name": "Moto GP Op 8",
+			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true" 
           }, {
 			"name": "Moto (extranjero)",
-                                                      "name": "Moto (dortmun)",
 			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://dishtrainer.net/embed/xim5l82td952sj6",
-                         "referer" : "https://www.elixx.link/",
+			 "url" : "https://articulatebreak.net/embed/ns8mv9eppyr",
+                         "referer" : "https://bolaloca.my/",
              "isHost": "true"  
-                                       }, {
+            }, {
+			"name": "Moto (extranjero)",
+			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" : "https://streamfree.pro/tv-eu.php?stream=HDTV26",
+                                  "referer" : "https://streamsgate.live/", 
+             "isHost": "true"     
 		}]
                   }, {
 		"name": "Bundesliga  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
