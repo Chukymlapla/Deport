@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 06-03-2026)",
+    "author": "chuky (Actualizada al 07-03-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://ghostbin.axel.org/paste/wj6ku/raw", 
@@ -1742,6 +1742,12 @@
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
         "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
+			"userAgent": "" 
+                                              }, {
+			"name": "Toros",
+			"image": "https://i.ibb.co/5gQShxJz/toros.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        "url": "https://clouding.wideiptv.top/OneToro/index.fmp4.m3u8?token=37abe596a74fe122468898189ba224f238a55169-7dec2bf679048cbebd95234451cee0b6-1772911962-1772908362",
 			"userAgent": "" 
                                     }, {
                                      "name": "TV3",
