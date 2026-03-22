@@ -1267,6 +1267,7 @@
 		        "referer": "https://bolaloca.my/",
              "isHost": "true"
                        }, {       
+                                                       "name": "Moto 3/60",
 			"name": "Moto GP Op 2",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1313,13 +1314,12 @@
                     "url": "https://la14hd.com/vivo/canales.php?stream=espn",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true" 
-          }, {
                                             }, {
 			"name": "Moto GP OP Móvil/PC",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                     "url": " https://britktii.s19khangealsicnewspaper.sbs/es/motorsport/def-2130360/goiania-brazil---race-2.html?icg=RVM&ilang=es",
-                                       "isHost": "true" 
+                                       "embed": "true" 
           }, {
 			"name": "Moto (extranjero)",
 			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
@@ -2120,27 +2120,27 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"info": "",
 		"stations": [{
-                    "name": "real betis b vs sevilla atletico",
+                    "name": "Guadalajara - Talavera",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
-          "url" :  "https://gene7qvf.tozymarkpg1xk6strength.sbs/es/football/spanish-primera-division-rfef-4228559/c.html?icg=RVM&ilang=es",
+          "url" :  "https://britwm7r.s19khangealsicnewspaper.sbs/es/football/spanish-primera-division-rfef-4225127/cd-guadalajara-vs-cf-talavera-de-la-reina.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": "",
+                    "name": "Algeciras - Gimnastic",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://gene7qvf.tozymarkpg1xk6strength.sbs/es/football/spanish-primera-division-rfef-4228448/c.html?icg=RVM&ilang=es",
+          "url" :  "https://britktii.s19khangealsicnewspaper.sbs/es/football/spanish-primera-division-rfef-4228625/algeciras-vs-gimnastic-de-tarragona.html",
 			 "embed" : "true" 
                                                       },{
-                                        "name": "",
+                                        "name": "Eldense -Ibiza",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://gene7qvf.tozymarkpg1xk6strength.sbs/es/football/spanish-primera-division-rfef-4225110/c.html?icg=RVM&ilang=es",
+          "url" :  "https://britktii.s19khangealsicnewspaper.sbs/es/football/spanish-primera-division-rfef-4228646/eldense-vs-ud-ibiza.html",
 			 "embed" : "true"   
 				},{
-                    "name": "",
+                    "name": "Marbella - Sevilla Atletico",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://gene7qvf.tozymarkpg1xk6strength.sbs/es/football/spanish-primera-division-rfef-4228603/c.html?icg=RVM&ilang=es",
+          "url" :  "https://britktii.s19khangealsicnewspaper.sbs/es/football/spanish-primera-division-rfef-4228547/ud-marbella-vs-sevilla-atletico.html",
 			 "embed" : "true" 
                                                                    }, {
                                      "name": "",
