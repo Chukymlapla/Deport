@@ -977,7 +977,13 @@
             "image": "https://images.unsplash.com/photo-1678483789123-e8a73f82addb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TG9nb3RpcG8lMjBkZSUyMERBWk4lMjBNZWRpYXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
             "info": "",
             "stations": [{
-                        
+                             "name": "DAZN Liga",
+                    "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			   "url" : "https://ligue1live.xyz/Zoz/2/51",
+		        "referer": "https://ligue1live.xyz/part/Ll.php?id=2/51",
+             "isHost": "true"
+                          }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1152,8 +1158,8 @@
                  "name": "(DAZN Basket 2)",
                     "image": "https://i.ibb.co/GQX9ftN9/acuerdo-de-baloncesto-entre-movistar-plus-y-dazn.webp",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                     "url" : "https://dishtrainer.net/embed/h8dl5b",
-		        "referer": "https://bolaloca.my/",
+                                      "url" : "https://ligue1live.xyz/Zoz/2/156",
+		        "referer": "https://ligue1live.xyz/part/Ll.php?id=2/156",
              "isHost": "true"
                             },{ 
                  "name": "(DAZN Basket 2)",
@@ -1181,8 +1187,8 @@
                "name": "(DAZN Basket 3)",
 			"image": "https://i.ibb.co/GQX9ftN9/acuerdo-de-baloncesto-entre-movistar-plus-y-dazn.webp",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           		 "url" : "https://dishtrainer.net/embed/edl8ze",
-		        "referer": "https://bolaloca.my/",
+           		   "url" : "https://ligue1live.xyz/Zoz/2/157",
+		        "referer": "https://ligue1live.xyz/part/Ll.php?id=2/157",
              "isHost": "true"
 		}]
 	}, {
@@ -2050,6 +2056,13 @@
           "url" :  "https://dishtrainer.net/embed/ysagetp2j4x",
                               "referer" : "https://bolaloca.my/",
 			 "isHost" : "true"   
+                                                                          },{
+                    "name": "Bein Sport-1",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
+          "url" :  "https://dishtrainer.net/embed/ysagetp2j4x",
+                                                                          "url" : "https://ligue1live.xyz/Zoz/2/1",
+		        "referer": "https://ligue1live.xyz/part/Ll.php?id=2/1",
+             "isHost": "true"
 				},{
                     "name": "Bein Sport-2",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",
