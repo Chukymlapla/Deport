@@ -83,9 +83,15 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
+              "name": "MLB TV",
+			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
+			   "url": "https://embedsports.me/mlb/mlb-network-stream-1",
+                                                       "referer" : "https://720pstreams.tv/,
+                                                       "isHost": "true" 
+             }, {     
                                                       "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
-			   "url": "https://upstor.link/ch.php?id=28",
+			   "url": "https://upstor.link/ch.php?id=8",
                                                        "isHost": "true" 
              }, {
 			"name": "Evento 1",
