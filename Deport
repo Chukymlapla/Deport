@@ -86,7 +86,7 @@
               "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
 			   "url": "https://720pstreams.tv/live/mlb/mlb-network",
-                                                       "isHost": "true" 
+                                                       "embed": "true" 
              }, {     
                                                       "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
