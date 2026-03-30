@@ -85,8 +85,7 @@
             "stations": [{
               "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
-			   "url": "https://embedsports.me/mlb/mlb-network-stream-1",
-                                                       "referer" : "https://720pstreams.tv/",
+			   "url": "https://720pstreams.tv/live/mlb/mlb-network",
                                                        "isHost": "true" 
              }, {     
                                                       "name": "MLB TV",
