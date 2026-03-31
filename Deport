@@ -84,10 +84,6 @@
             "info": "",
             "stations": [{
               "name": "MLB TV",
-			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
-			   "url": "https://720pstreams.tv/live/mlb/mlb-network",
-                                                       "embed": "true" 
-             }, {     
                                                       "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
 			   "url": "https://upstor.link/ch.php?id=8",
