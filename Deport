@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 30-03-2026)",
+    "author": "chuky (Actualizada al 01-04-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -80,96 +80,96 @@
                                }]
                     },{
             "name": "MLB ⚾",
-            "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
+            "image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-              "name": "MLB TV",
+              "name": "hd TV",
                                                       "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
 			   "url": "https://upstor.link/ch.php?id=8",
                                                        "isHost": "true" 
              }, {
 			"name": "Evento 1",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-1.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-1.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
              }, {
 			"name": "Evento 2",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-2.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-2.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
               }, {  
                                                       "name": "Evento 3",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-3.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-3.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
               }, {
 			"name": "Evento 4",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-4.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-4.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
              }, {
 			"name": "Evento 5",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-5.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-5.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
              }, {
 			"name": "Evento 6",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-6.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-6.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
               }, {
 			"name": "Evento 7",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-7.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-7.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                }, {
 			"name": "Evento 8",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-8.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-8.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                }, {
 			"name": "Evento 9",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-9.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-9.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                  }, {
 			"name": "Evento 10",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-10.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-10.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                 }, {
 			"name": "Evento 11",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-11.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-11.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                 }, { 
 			  "name": "Evento 12",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-12.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-12.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                 }, { 
 			  "name": "Evento 13",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-13.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-13.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                  }, { 
 			  "name": "Evento 14",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://streamsgates.io/mlb/hd-14.php",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/hdtv-1.jpg?quality=50&strip=all",
+			"url" : "https://streamsgates.io/hd/hd-14.php",
                                                       "referer" : "https://streamsgates.io/",
 			"isHost": "true"
                             }]
