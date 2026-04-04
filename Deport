@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 01-04-2026)",
+    "author": "chuky (Actualizada al 04-04-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -966,9 +966,8 @@
 			"name": "La de España (opción 7)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url" :  "https://streamfree.pro/tv-eu.php?stream=HDTV10",
-                    "referer" : "https://streamsgate.live/",
-			 "isHost":"true"  
+			       "url" :  "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
+			 "userAgent":""  
                                                          }, {
 			"name": "La de España (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -1013,19 +1012,25 @@
 			 "url" :  "https://obstream.pro/sabri.php?stream=sabrouchmlaliga",
                                                          "referer" : "https://welivesports.shop/",
 			 "isHost":"true"  
-                                                        }, {
+                                                          }, {
+			"name": "La de España Móvil/PC.",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                                        "url" : "https://jackubjs.fud82nearermx3tkusmallest.sbs/es/football/spanish-la-liga-4209729/atletico-madrid-vs-fc-barcelona.html?icg=RVM&ilang=es",
+                                                        "embed" : "true"
+                                                   }, {
+			"name": "La de España Inglés.",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                                        "url" : "https://sportora.ru/stream/atletico-madrid-vs-barcelona-football-1391110",
+                   "isHost" : "true"
+                                                                                                                 }, {
 			"name": "La de España 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			  "url" :  "https://dishtrainer.net/embed/ikprof0g",
 		                  "referer" : "https://bolaloca.my/",
 			 "isHost":"true"  
-                                                   }, {
-			"name": "La de España 2.",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                        "url" : "https://sportora.ru/stream/real-sociedad-vs-levante-2279691",
-                   "isHost" : "true"
 		}]
                  }, {
 		"name": "La Liga Hypermotion  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -1074,17 +1079,17 @@
 			       "url": "https://upstor.link/ch.php?id=29",
 "isHost": "true" 
                           }, {
-                                                      "name": "La 22.",
-			"name": "La Seguda división España (opción 7)",
+                                                      "name": "sportora",
+			"name": "La Seguda división España (opción 7.)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                 "url": "https://gopst.link//ch?id=26",
+			                 "url": "https://sportora.ru/stream/c-vs-c-football-1392130",
 "isHost": "true" 
 	              }, {
 			"name": "La Seguda división España (opción 8)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url" :  "https://www.vipleague.ws/segunda-division/leganes-vs-real-zaragoza-1-live-streaming",
+		 "url" :  "https://sportora.ru/stream/cultural-leonesa-vs-real-valladolid-2280371",
                                              "isHost": "true" 
                                }, {
                         "name": "La Seguda división España (opción 9)",
@@ -2544,19 +2549,19 @@
                   "name": "Evento 8+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://deporte-libre.click/en-vivo-online/dazn-formula-1-es/embed.php",
+			              "url" : "https://vipflash.online/watch.php?538",
             "embed": "true" 
                                           },{
-                  "name": "Evento 9",
+                  "name": "Evento 9.",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://www.vipleague.ws/la-liga/real-betis-vs-celta-vigo-6-live-streaming",
+			              "url" : "https://vipflash.online/watch.php?538",
                             "isHost" : "true"
                                                           },{
                   "name": "Evento 10+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://www.vipleague.ws/argentina-primera/barracas-central-vs-atletico-tucuman-1-live-streaming",
+			              "url" : "https://www.vipleague.ws/la-liga/atletico-madrid-vs-barcelona-10-live-streaming",
                    "isHost" : "true"
                                    }]
 			}, {
