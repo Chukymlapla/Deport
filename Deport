@@ -1921,8 +1921,9 @@
 			"name": "Toros",
 			"image": "https://i.ibb.co/5gQShxJz/toros.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        "url": "https://clouding.wideiptv.top/OneToro/index.fmp4.m3u8?token=b9d165148f0758fa043837ee0378a453c32f0e79-e462d43ef395263602f9a9d4780f2600-1775234021-1775230421",
-			"userAgent": "" 
+        "url": "https://clouding.wideiptv.top/OneToro/embed.html?token=3257351c5cb0e7755533ba63466f5deb784d8a14-f4254da14b2feceb96a00ea3618579eb-1776192129-1776188529",
+                                                  "referer" : "https://popcdn.day/",
+			"isHost": "true" 
                                     }, {
                                      "name": "TV3",
 			 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShns1jJEoVMPRyFtH3zimljVrXSoRD4zD9aA&s",
