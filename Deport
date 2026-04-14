@@ -882,8 +882,8 @@
 			"name": "campeones ",
                                                       "name" : "Atletico Madrid vs Barcelona",
 			"image": "https://i.ibb.co/380Gzts/atletico-de-madrid-barcelona-uefa-champions-league.jpg",
-			 "url" : "https://emb.apl401.me/player/live.php?id=254020&w=728&h=480",
-            "isHost": "true" 
+			 "url" : "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
+            "userAgent": "" 
                           }, {
 			"name": "campeones ",
                                                       "name" : "Barcelona vs Atletico Madrid",
@@ -2531,11 +2531,11 @@
 			              "url" : "https://vipflash.online/watch.php?538",
             "embed": "true" 
                                           },{
-                  "name": "Evento 9",
+                  "name": "Evento 9+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://dlstreams.top/stream/stream-538.php",
-                              "referer" : "https://vipflash.online/",
+			              "url" : "https://c72f1f137dab8ae2e2f46de5ee0ffaf5.dninstinct.net/e/xz0lvscyd4tsg",
+                              "referer" : "https://antenasport.top/",
                             "isHost" : "true"
                                                           },{
                   "name": "Evento 10+",
