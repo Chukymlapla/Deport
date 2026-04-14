@@ -836,6 +836,11 @@
 			  "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
+                                              }, {
+			"name": "Liverpool vs PSG",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAVGD4pT50AWDSQdW9UYZSJA-38jFxI9TDiQ&s",
+			 "url" :  "https://nia08bp.2wruedoublej4l6adjective.sbs/es/football/uefa-champions-league-4375178/liverpool-vs-paris-saint-germain.html?icg=RVM",
+                                                       "embed" : "true"
                                                    }, {
 			"name": "La Liga (sportzonline)",
 			"name": "Atletico Madrid vs Barcelona",
@@ -896,6 +901,12 @@
 			"image": "https://i.ibb.co/380Gzts/atletico-de-madrid-barcelona-uefa-champions-league.jpg",
 			 "url" :  "https://cdnstremgo-s.com/hls/futbol1.m3u8",
                                                        "userAgent" : ""
+                                                             }, {
+			"name": "campeones ",
+                                                      "name" : "Atletico Madrid vs Barcelona",
+			"image": "https://i.ibb.co/380Gzts/atletico-de-madrid-barcelona-uefa-champions-league.jpg",
+			 "url" :  "https://nia08bp.2wruedoublej4l6adjective.sbs/es/football/uefa-champions-league-4375177/atletico-madrid-vs-fc-barcelona.html?icg=RVM&ilang=es",
+                                                       "embed" : "true"
                    }]
                    }, {
 		"name": "LaLiga EA Sports  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -2534,7 +2545,7 @@
                   "name": "Evento 9+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://c72f1f137dab8ae2e2f46de5ee0ffaf5.dninstinct.net/e/xz0lvscyd4tsg",
+			              "url" : "https://dninstinct.net/embed/xz0lvscyd4tsg",
                               "referer" : "https://antenasport.top/",
                             "isHost" : "true"
                                                           },{
