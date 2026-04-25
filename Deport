@@ -2546,10 +2546,12 @@
 			              "url" : "https://1nyaler.screenistream.xyz/stream/172/index.m3u8",
                                                  "userAgent" : ""
                                                           },{
-                  "name": "Evento 8",
+                  "name": "Evento 8+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://gomstreams.info/live/stream-21.php"
+			              "url" : "https://liveverse.cfd/tv/stream-21.php",
+                                           "referer" : "https://liveverse.space/",
+                                            "isHost" : "true"
                                           },{
                   "name": "Evento 9+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
