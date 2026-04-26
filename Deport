@@ -997,8 +997,8 @@
 			"name": "La de España (opción 12)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://cdnstremgo-s.com/hls/futbol1.m3u8",
-                                                       "userAgent" : ""
+			   "url" : "https://daffodil.shoncine.com/dep.m3u8",
+                                                     "userAgent" : ""
                                           }, {
                                                       "name" : "https://welivesports.shop/vivo.php",
 			"name": "La de España (opción 13)",
@@ -2500,7 +2500,8 @@
                     "name": "Evento 1+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			             "url" : "https://vivatops.sbs/vivo/4.php"
+			             "url" : "https://daffodil.shoncine.com/dep.m3u8",
+                                                     "userAgent" : ""
 				},{
                     "name": "Evento 2+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
