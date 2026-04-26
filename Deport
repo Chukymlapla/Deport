@@ -2507,14 +2507,14 @@
                     "name": "Evento 2",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://gabitotv.com/02.php",
-                  "referer" : "https://gabitotv.com/ch02.php",
-            "isHost": "true" 
+			              "url" : "https://deporte-libre.click/en-vivo-online/dazn-formula-1-es/embed.php",
+            "embed": "true" 
                                                       },{
                                        "name": "Evento 3",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://embed.ksdjugfsddeports.com/embed/daznlaliga.html"
+			              "url" : "https://embed.ksdjugfsddeports.com/embed/daznlaliga.html",
+                                        "embed": "true" 
 				},{
                    "name": "Evento 4",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
