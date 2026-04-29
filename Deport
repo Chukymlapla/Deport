@@ -1842,6 +1842,13 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                      "url" : "https://dishtrainer.net/embed/um6txc0v4k7ji8o",
 		"referer" : "https://ligue1live.xyz/",
+			 "isHost":"true"    
+                                                         }, {
+			"name": "Euro-Sport 1",
+			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                     "url" : "https://ivanturbinca.com/embed-video-rds.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Feurosportsd%2Fvideo.m3u8",
+		"referer" : "https://rds.live/",
 			 "isHost":"true"     
       }, {
 			"name": "Euro-Sport 2-Fran",
