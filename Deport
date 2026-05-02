@@ -1060,8 +1060,9 @@
                              "name": "DAZN Liga (Opción 1)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" : "https://emb.apl401.me/player/live.php?id=257861&w=728&h=480",
-             "isHost": "true"
+			   "url" : "https://woundsilk.net/embed/w2iuo",
+                                                     "referer" : "https://zonalive.click/",
+			 "isHost":"true"
                           }, {
                     "name": "DAZN Liga (Opción 2)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
@@ -1123,7 +1124,9 @@
                     "name": "DAZN Liga 2",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url" : "https://www.librefutbol2.com/envivo5/daznlaliga.php"
+		 "url" : "https://mediahosting.space/embed/player?config=c519dba7-c90c-405b-9b4d",
+                                              "referer": "https://www.matchdirect.live/",
+             "isHost": "true"
                         }, {
                     "name" : "56-3",
                     "name": "DAZN 1",
