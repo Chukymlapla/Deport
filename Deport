@@ -2443,11 +2443,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"info": "",
 		"stations": [{
-                    "name": "Evento 1+",
+                    "name": "Evento 1",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			             "url" : "https://daffodil.shoncine.com/dep.m3u8",
-                                                     "userAgent" : ""
+			             "url" : "https://golxu.com/canales/zgo5.php",
+                                                                     "referer" : "https://golxu.com/embed/rkstreams.php?id=zgo5",
+                                                     "isHost" : "true"
 				},{
                     "name": "Evento 2+",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
