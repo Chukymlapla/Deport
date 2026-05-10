@@ -368,7 +368,8 @@
                  "name": "evento 2 ",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            "url" : "https://rdcanais.com/ufcfightpass"
+            "url" : "https://rdcanais.com/ufcfightpass",
+                                                      "ishost" : "true"
                     },{ 
                    "name": "hd5 ",
                  "name": "evento 3 ",
@@ -2060,11 +2061,13 @@
              }, {   
                                    "name": "ESPN 1 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn.jpg",
-               			"url" :  "https://minhatelinha.net/assistir-espn-ao-vivo-online-gratis-24-horas-hd/"
+               			"url" :  "https://minhatelinha.net/assistir-espn-ao-vivo-online-gratis-24-horas-hd/",
+                                                      "ishost" : "true"
                                    }, {   
-                                   "name": "ESPN 2 Brasill",
+                                   "name": "ESPN 2 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn2.jpg",
-               			"url" :  "https://rdcanais.com/espn2" 
+               			"url" :  "https://rdcanais.com/espn2",
+                                                      "ishost" : "true"
                                    }, {   
                                    "name": "ESPN 3 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn3.jpg",
