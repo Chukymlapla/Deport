@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 21-05-2026)",
+    "author": "chuky (Actualizada al 23-05-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -840,209 +840,190 @@
 		"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
 		"info": "",
 		"stations": [{
-                                                     "name": "Rayo Vallecano vs Villarreal",
+                                                     "name": "Espanyol vs Real Sociedad",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url": "https://playfa.st/stream?id=97",
+			  "url": "https://playfa.st/stream?id=94",
                                                       "isHost": "true" 
 			  }, {
-                            "name": "Rayo Vallecano vs Villarreal",
+                            "name": "Espanyol vs Real Sociedad",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                                                       "url" :  "https://dishtrainer.net/embed/vfh7lfh8q0g",
 		                  "referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"
                        }, {
-          "name": "Rayo Vallecano vs Villarreal",
+          "name": "Espanyol vs Real Sociedad",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		                  "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+		                  "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
               }, {
-          "name": "Levante vs Mallorca",
+          "name": "Real Betis vs Levante",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" :  "https://dishtrainer.net/embed/8xjdm9xmx8ys",
 		                  "referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"
                    }, {
-                                                     "name": "Levante vs Mallorca",
+                                                     "name": "Real Betis vs Levante",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			            "url": "https://playfa.st/stream?id=29",
+			            "url": "https://playfa.st/stream?id=74",
                                                       "isHost": "true" 
                       }, {
-                        "name": "Levante vs Mallorca",
+                        "name": "Real Betis vs Levante",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=29",
-                                                      "isHost": "true" 
+			 "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+                                                      "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+                                                      "isHost": "true"
                                        }, {
-                  	"name": "Real Sociedad vs Valencia",
+                  	"name": "Espanyol vs Real Sociedad",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   	 "url" :  "https://dishtrainer.net/embed/ikprof0g",
 		"referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"  
                                         }, {
-                  	"name": "Real Sociedad vs Valencia",
+                  	"name": "Espanyol vs Real Sociedad",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
                                       }, {
-                  	"name": "Real Sociedad vs Valencia",
+                  	"name": "Espanyol vs Real Sociedad",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                        "url": "https://playfa.st/stream?id=96",
+                                                        "url": "https://playfa.st/stream?id=94",
                                                       "isHost": "true" 
         }, {
-                        "name": "Sevilla vs Real Madrid",
+                        "name": "Valencia vs Barcelona",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=30",
+			 "url": "https://playfa.st/stream?id=29",
                                                       "isHost": "true" 
                                        }, {
-                  	"name": "Sevilla vs Real Madrid",
+                  	"name": "Valencia vs Barcelona",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   	 "url" :  "https://dishtrainer.net/embed/w2iuo",
 		"referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"  
                                         }, {
-                  	"name": "Sevilla vs Real Madrid",
+                  	"name": "Valencia vs Barcelona",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
                           }, {
-                        "name": "Elche vs Getafe",
+                        "name": "Getafe vs Osasuna",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=45",
+			 "url": "https://playfa.st/stream?id=90",
                                                       "isHost": "true" 
                                        }, {
-                  	"name": "Elche vs Getafe",
+                  	"name": "Getafe vs Osasuna",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   	 "url" :  "https://dishtrainer.net/embed/roj0c6k4ksykjwl",
 		"referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"  
                                         }, {
-                  	"name": "Elche vs Getafe",
+                  	"name": "Getafe vs Osasuna",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
+                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espnplus10",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
                                            }, {
-                        "name": "Atletico Madrid vs Girona",
+                        "name": "Mallorca vs Real Oviedo",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=28",
+			 "url": "https://playfa.st/stream?id=93",
                                                       "isHost": "true" 
                                        }, {
-                  	"name": "Atletico Madrid vs Girona",
+                  	"name": "Mallorca vs Real Oviedo",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   	 "url" :  "https://dishtrainer.net/embed/ion9r5cmhen",
 		"referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"  
                                         }, {
-                  	"name": "Atletico Madrid vs Girona",
+                  	"name": "Mallorca vs Real Oviedo",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
+                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espnplus11",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
                                             }, {
-                        "name": "Osasuna vs Espanyol",
+                        "name": "Girona vs Elche",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=99",
+			 "url": "https://playfa.st/stream?id=26",
                                                       "isHost": "true" 
                                        }, {
-                  	"name": "Osasuna vs Espanyol",
+                  	"name": "Girona vs Elche",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   	 "url" :  "https://dishtrainer.net/embed/ds13z4tuaur39",
 		"referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"  
                                         }, {
-                  	"name": "Osasuna vs Espanyol",
+                  	"name": "Girona vs Elche",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espnplus4",
+                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espnplus9",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
                                           }, {
-                        "name": "Real Oviedo vs Deportivo Alaves",
+                        "name": "Real Madrid vs Athletic Club",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=27",
+			 "url": "https://playfa.st/stream?id=28",
                                                       "isHost": "true" 
                                        }, {
-                  	"name": "Real Oviedo vs Deportivo Alaves",
+                  	"name": "Real Madrid vs Athletic Club",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   	 "url" :  "https://dishtrainer.net/embed/eiqewe2jkfv0663",
 		"referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"  
                                         }, {
-                  	"name": "Real Oviedo vs Deportivo Alaves",
+                  	"name": "Real Madrid vs Athletic Club",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
+                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espnplus13",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
                                            }, {
-                        "name": "Athletic Club vs Celta de Vigo",
+                        "name": "Deportivo Alaves vs Rayo Vallecano",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=98",
+			 "url": "https://playfa.st/stream?id=95",
                                                       "isHost": "true" 
                                        }, {
-                  	"name": "Athletic Club vs Celta de Vigo",
+                  	"name": "Deportivo Alaves vs Rayo Vallecano",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                   	 "url" :  "https://dishtrainer.net/embed/hatlrm",
 		"referer" : "https://ligue1live.xyz/",
 			 "isHost":"true"  
                                         }, {
-                  	"name": "Athletic Club vs Celta de Vigo",
+                  	"name": "Deportivo Alaves vs Rayo Vallecano",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
-                                                      "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
-                                                      "isHost": "true"
-                                       }, {
-                        "name": "Barcelona vs Real Betis",
-			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=29",
-                                                      "isHost": "true" 
-                                       }, {
-                  	"name": "Barcelona vs Real Betis",
-			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url" : "https://woundsilk.net/embed/w2iuo",
-                                                     "referer" : "https://zonalive.click/",
-			 "isHost":"true"
-                                        }, {
-                  	"name": "Barcelona vs Real Betis",
-			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
+                  	 "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus1",
                                                       "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                                                       "isHost": "true"
                                            }, {
                         "name": "Multiliga",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=8",
+			 "url": "https://playfa.st/stream?id=6",
                                                       "isHost": "true" 
                                        }, {
                   	"name": "Multiliga",
@@ -1058,64 +1039,64 @@
 			 "url": "https://www.futbolenlatv.es/",
                                                       "isHost": "true" 
                          }, {
-                        "name": "Rayo Vallecano vs Villarreal",
+                        "name": "Celta de Vigo - Sevilla",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209817/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209642/rc-celta-vs-sevilla-fc.html?icg=R0I&ilang=es",
                                                       "embed": "true" 
                         }, {
-                        "name": "Levante vs Mallorca",
+                        "name": "Real Betis - Levante",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209755/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209837/real-betis-vs-levante.html?icg=R0I&ilang=es",
                                                       "embed": "true" 
 	          }, {
-                        "name": "Real Sociedad vs Valencia",
+                        "name": "Espanyol - Real Sociedad",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209749/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209618/rcd-espanyol-de-barcelona-vs-real-sociedad.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
                         }, {
-                        "name": "Sevilla vs Real Madrid",
+                        "name": "Valencia - FC. Barcelona",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209596/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209620/valencia-cf-vs-fc-barcelona.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
                     }, {
-                        "name": "Elche vs Getafe",
+                        "name": "Getafe - osasuna",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209662/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209619/getafe-vs-ca-osasuna.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
                         }, {
-                        "name": "Atletico Madrid vs Girona",
+                        "name": "Mallorca - Real oviedo",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209836/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209600/rcd-mallorca-vs-real-oviedo.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
 	          }, {
-                        "name": "Osasuna vs Espanyol",
+                        "name": "Girona - Elche",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209586/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209756/girona-fc-vs-elche.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
                         }, {
-                        "name": "Real Oviedo vs Deportivo Alaves",
+                        "name": "Real Madrid - Athletic Club",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209597/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209595/real-madrid-vs-athletic-club.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
                         }, {
-                        "name": "Athletic Club vs Celta de Vigo",
+                        "name": "Alavés - Rayo Vallecano",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209792/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209641/deportivo-alavs-vs-rayo-vallecano.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
                         }, {
-                        "name": "Barcelona vs Real Betis",
+                        "name": "Multiliga",
 			"image": "https://i.ibb.co/fYKNtc71/toda-la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://jack22eo.mp7786j2ncsusov57general.ru/es/football/spanish-la-liga-4209752/rayo-vallecano-vs-villarreal-cf.html?icg=RVM&ilang=es",
+			 "url": "https://jack44eo.mp7786j2ncsusov57general.ru/es/football/jornada-38---futbol-espanol-4403912/multiliga-jornada-38.html?icg=RVM&ilang=es",
                                                       "embed": "true" 
                                        }]
                    }, {
@@ -1549,7 +1530,7 @@
           "name": "M-F1(OP-2)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url": "https://playfa.st/stream?id=29",
+			   "url": "https://playfa.st/stream?id=30",
 "isHost": "true" 
                    }, {
                                                      "name": "M-F1(OP-3)",
@@ -2080,7 +2061,7 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://playfa.st/stream?id=29",
+			 "url": "https://playfa.st/stream?id=30",
 "isHost": "true" 
                                    }, {
                                                       "name": "60-4",
