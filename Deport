@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  25-06-2026)",
+    "author": "chuky (Actualizada al  26-06-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -521,13 +521,13 @@
 			"name": "Op 4",
 			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	  "url" :  "https://emb.apl418.me/player/live.php?id=261174&w=728&h=480",
+		      	  "url" :  "https://247sports1.live/live/dazn1_spain.php",
 			 "isHost":"true"
                              }, {
 			"name": "Op 4 B",
 			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",                                 
-                                                       "url": "https://emb.apl418.me/player/live.php?id=262320&w=512&h=288" 
+                                                       "url": "https://247sports1.live/live/dazn2_spain.php" 
                                                           }, {
 			"name": "Op 5",
 			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
@@ -1191,8 +1191,9 @@
           "name": "M-F1(OP-2)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url": "https://s1.playfa.st/ch.php?id=30",
-"isHost": "true" 
+			  "url" : "https://s3.vertex.st/ch?id=30",
+                                               "referer" : "https://matchstream.do/",
+                                            "isHost" : "true"
                    }, {
                                                      "name": "M-F1(OP-3)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1214,7 +1215,7 @@
                   	"name": "M-F1(OP-6)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
+                  	 "url": "https://la18hd.com/vivo/canales.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true" 
                                       }, {
@@ -1235,8 +1236,9 @@
 			"name": "Moto GP OP 1",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                                                                   "url": "https://zentaratv.web.id/watch/rally-tv",
-"isHost": "true" 
+                                                                                                  "url" : "https://s3.vertex.st/ch?id=29",
+                                               "referer" : "https://matchstream.do/",
+                                            "isHost" : "true"
                      }, {       
                                                        "name": "Moto 4/67",
 			"name": "Moto GP Op 2 4ST-Brigitte",
