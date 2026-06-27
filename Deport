@@ -521,13 +521,17 @@
 			"name": "Op 4",
 			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	  "url" :  "https://247sports1.live/live/dazn1_spain.php",
+		      	  "url": "https://bstream.live/bill-player?stream=g9wqvvhxbe",
+                                                      "referer" : "https://247sports1.live/",
+			 "isHost":"true" 
 			 "isHost":"true"
                              }, {
 			"name": "Op 4 B",
 			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",                                 
-                                                       "url": "https://247sports1.live/live/dazn2_spain.php" 
+                                                       "url": "https://bstream.live/bill-player?stream=gi61qzxu2n",
+                                                      "referer" : "https://247sports1.live/",
+			 "isHost":"true" 
                                                           }, {
 			"name": "Op 5",
 			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
@@ -1282,7 +1286,9 @@
 			"name": "Moto GP Prueba",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url": "https://247sports1.live/embx/motogpes.php"
+                    "url": "https://bstream.live/bill-player?stream=g9wqvvhxbe",
+                                                      "referer" : "https://247sports1.live/",
+			 "isHost":"true" 
                                             }, {
 			"name": "Moto GP OP Móvil/PC",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
