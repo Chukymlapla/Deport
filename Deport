@@ -2272,20 +2272,20 @@
                                  "name": "Disney + Evento 18",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://s3.vertex.st/ch?id=100"
+			                  "url" : "https://zicotv.cc/api/player/43080",
+                                                                          "referer" : "https://zicotv.cc/",
+                                                                         "isHost": "true"           
 		 }, {
                          "name": "Disney + Evento 19+",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://embed.st/embed/admin/ppv-england-vs-congo-dr/7#player=clappr&autoplay=true",
+			                  "url" : "https://zicotv.cc/api/player/43080",
 			"isHost": "true"
 		 }, {
-                         "name": "Disney + Evento 20+",
+                         "name": "Disney + Evento 20",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://hoca8.com/footy.php?player=desktop&live=ufeed56",
-                                                                          "referer" : "https://streamonsport.art/",
-                                                                             "isHost": "true"
+			                  "url" : "https://zicotv.cc/api/player/43080"
 			}]
              }] 
 }
