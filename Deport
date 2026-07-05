@@ -86,7 +86,7 @@
               "name": "hd TV",
                                                       "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
-			   "url": "https://playfa.st/stream?id=8",
+			   "url": "https://play.matchli.st/live?id=8",
                                                        "isHost": "true" 
              }, {
 			"name": "Evento 1",
@@ -175,52 +175,52 @@
                   }, {
 			"name": "canal 1 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=91",
+			  "url": "https://play.matchli.st/live?id=91",
                                                        "isHost": "true" 
              }, {
 			"name": "canal 2 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=92",
+			  "url": "https://play.matchli.st/live?id=92",
                                                        "isHost": "true" 
               }, {  
                                                     "name": "canal 3 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=93",
+			  "url": "https://play.matchli.st/live?id=93",
                                                        "isHost": "true" 
               }, {
 			"name": "canal 4 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=94",
+			  "url": "https://play.matchli.st/live?id=94",
                                                        "isHost": "true" 
              }, {
 			"name": "canal 5 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=95",
+			  "url": "https://play.matchli.st/live?id=95",
                                                        "isHost": "true" 
              }, {
 			"name": "canal 6 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=96",
+			  "url": "https://play.matchli.st/live?id=96",
                                                        "isHost": "true" 
               }, {
 			"name": "canal 7 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=97",
+			  "url": "https://play.matchli.st/live?id=97",
                                                        "isHost": "true" 
                }, {
 			"name": "canal 8 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=98",
+			  "url": "https://play.matchli.st/live?id=98",
                                                        "isHost": "true" 
                }, {
 			"name": "canal 9 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=99",
+			  "url": "https://play.matchli.st/live?id=99",
                                                        "isHost": "true" 
                  }, {
 			"name": "canal 10 Repuesto",
 			"image": "https://media.tenor.com/LSGuvvQYpF8AAAAi/hitting-the-ball-major-league-baseball.gif",
-			  "url": "https://playfa.st/stream?id=100",
+			  "url": "https://play.matchli.st/live?id=100",
                                                        "isHost": "true" 
                             }]
                       },{
@@ -362,7 +362,7 @@
                  "name": "Evento 1",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               	       	        "url": "https://playfa.st/stream?id=1",
+               	       	        "url": "https://play.matchli.st/live?id=1",
 "isHost": "true" 
                     },{
                  "name": "evento 2 ",
@@ -562,6 +562,17 @@
 	                                    "url": "https://la20hd.com/vivo/canales.php?stream=tycsports",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
+                                                                }, {        
+			"name": "Op 7",
+			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+	                                "url" :  "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+            "isHost": "true"
+                                                                }, {        
+			"name": "Op 7 B",
+			"image": "https://i.etsystatic.com/65834316/r/il/a79bf6/8016804732/il_1588xN.8016804732_fsnd.jpg",
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+	                                 "url": "https://play.matchli.st/live?id=100"
                      }]
                  },{
             "name": "La Liga Endesa/Euroliga 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -593,7 +604,7 @@
                  "name": "Opción 2(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-              	     "url" : "https://playfa.st/stream?id=28",
+              	     "url" : "https://play.matchli.st/live?id=28",
 			"isHost" : "true"
                        },{
                      "name": "lat63",
@@ -618,7 +629,7 @@
                      "name": "Opción 2(M-Deportes 3)",
                     "image": "https://i.ibb.co/6mMfQCp/1-0-1-77-BF-40-A-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                "url": "https://playfa.st/stream?id=93",
+                "url": "https://play.matchli.st/live?id=93",
 "isHost": "true" 
 
                          },{
@@ -833,7 +844,7 @@
 			"name": "La Liga (opción 3)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                    "url": "https://playfa.st/stream?id=86",
+                                    "url": "https://play.matchli.st/live?id=86",
 "isHost": "true" 
                           }, {
 			"name": "La Liga (sportzonline)",
@@ -962,7 +973,7 @@
 			"name": "La Seguda división España (opción 6)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url": "https://playfa.st/stream?id=28",
+			       "url": "https://play.matchli.st/live?id=28",
 "isHost": "true" 
                           }, {
                                                       "name": "sportora",
@@ -1055,7 +1066,7 @@
 			"name": "DAZN Liga (Opción 8)",
 			   "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url": "https://playfa.st/stream?id=86",
+          "url": "https://play.matchli.st/live?id=86",
 "isHost": "true" 
                         }, {
                       "name" : "29",
@@ -1085,7 +1096,7 @@
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       	 "url" : "https://playfa.st/stream?id=30",
+	       	 "url" : "https://play.matchli.st/live?id=30",
 			"isHost" : "true"
 			}, {
                       "name": "29",
@@ -1139,7 +1150,7 @@
                 "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url": "https://playfa.st/stream?id=28",
+                      "url": "https://play.matchli.st/live?id=28",
 "isHost": "true" 
                    },{ 
                 "name": "(DAZN 3)",
@@ -1379,7 +1390,7 @@
 	                "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" : "https://playfa.st/stream?id=30",
+			   "url" : "https://play.matchli.st/live?id=30",
 			"isHost" : "true"
                          }, {
                        "name" : "56-3",
@@ -1418,7 +1429,7 @@
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			 "url" : "https://playfa.st/stream?id=29",
+ 			 "url" : "https://play.matchli.st/live?id=29",
 			"isHost" : "true"
                 }, {
 			"name": "(DAZN 3)",
@@ -1432,7 +1443,7 @@
 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			 "url": "https://playfa.st/stream?id=28",
+ 			 "url": "https://play.matchli.st/live?id=28",
 "isHost": "true" 
                }, {
 			"name": "(DAZN 4)",
@@ -1723,7 +1734,7 @@
 			"userAgent": ""
 		}, {
                                                       "name": "60-3",
-			"name": "M-F1+",
+			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url": "https://play.matchli.st/live?id=30"
