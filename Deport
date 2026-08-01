@@ -1811,8 +1811,7 @@
 			"name": "Esport 3",
 			"image": "https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                      "url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
-			"userAgent": ""
+                                                      "url": "https://play.matchli.st/live?id=27"
                       }, {
 			"name": "Aragón TV",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png",
@@ -1849,7 +1848,7 @@
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                            "url" : "https://embedme.click/player/3/87"
+                            "url" : ""
                   },{
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
