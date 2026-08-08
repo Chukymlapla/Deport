@@ -1225,10 +1225,11 @@
                   	 "url" : "https://emb.apl425.me/player/live.php?id=263171&w=512&h=288",
             "isHost": "true" 
                                         }, {
-                  	"name": "M-F1(OP-6)",
+                  	"name": "M-F1(OP-6-)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://asiria.is/daznf1.php" 
+                  	 "url": "https://hiveatick.casadenoval.uk/main/secure/efe2c973e1f088f04a9da18a0c47182be9fc57d255a99eac79603f88a2907e0e/1786220823/daznf1-es.m3u8",
+                                        "userAgent" : "navigator" 
                                       }, {
                   	"name": "M-F1(Opción Movil)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1763,7 +1764,8 @@
 			"name": "SKY-Golf",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://asiria.is/skygolf.php"
+			"url" : "https://asiria.is/skygolf.php",
+                                                      "embed" : "true"
 			}, {
 			"name": "Toros-Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
