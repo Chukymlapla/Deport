@@ -1364,7 +1364,7 @@
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
+			"url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_720.m3u8",
 			"userAgent": ""
 		}, {
                                                       "name": "60-3",
@@ -1549,14 +1549,14 @@
 			"name": "Sky Sport football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url": "https://cricplay2.xyz/sky-sports-football",
-                "referer" : "https://www.freeshot.live/",
+			       "url": "https://zonatv.sbs/canales/dazn-laliga/",
+                "referer" : "https://zonatv.sbs/canales.php?id=daznliga",
                   "isHost": "true"
                }, {
 			"name": "Sky Sport footbal",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://quest4play.xyz/premiumtv/daddylivehd.php?id=35",
+			"url" : "https://deporte-libre.buzz/total/stream-130.php",
 			 "isHost":"true"
 			 }, {
               "name": "sky sport darts",
