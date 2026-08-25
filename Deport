@@ -908,7 +908,7 @@
 			"name": "M-F1-Inglés",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYwE74Kb7H4QnVRzNRfSNva9LFmatr6GfXw&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                               "url" :  "https://intac.live/live/daznf1_spain.php",
+                                               "url" :  "https://zicotv.cc/api/player/43048",
                                                 "embed" : "true"
 	              }, {
                                                        "name": "Moto 29",
@@ -947,7 +947,17 @@
 			"name": "Moto GP Op 6",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url": "https://playfa.st/ch.php?id=26"
+                   "source": "own",
+          "channel_id": "43048",
+          "name": "Canal 43048",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/43048",
+          "player_url": "https://zicotv.cc/api/player/43048",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"    
                       }, {
 			"name": "Moto GP Op 7",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
