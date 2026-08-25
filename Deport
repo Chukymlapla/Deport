@@ -594,8 +594,8 @@
 			"name": "La de España (opción 5)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://w2.sportsonlinee.click/channels/hd/hd6.php",
-                                                       "isHost" : "true"
+			   "url" : "https://cdx-08192.website/play/movistarlaliga-es",
+			 "isHost":"true"
                                                           }, {
 			"name": "La de España (opción 6)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -924,10 +924,12 @@
                                                       "isHost" : "true"
                      }, {       
                                                        "name": "Moto 4/67",
-			"name": "Moto GP Op 2 4ST-Brigitte",
+			"name": "Moto GP Op 2",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                           "url" : "https://august.ppvtv.icu/embed/hd4"
+                                                           "url" : "https://zonatv.sbs/canales/motogp/",
+                                                            "referer" : "https://zonatv.sbs/canales.php?id=motogp",
+			"isHost": "true"       
                           }, {
 			"name": "Moto GP OP 3 Pl",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
@@ -1313,7 +1315,9 @@
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            		 "url" : "https://www.freeshot.live/live-tv/movistar-vamos/"
+            		   "url" : "https://zonatv.sbs/canales/vamos/",
+                     "referer" : "https://zonatv.sbs/canales.php?id=vamos",
+			 "isHost":"true"
 		}, {
                                                     "name": "M-Campeones 61 3",
 			"name": "M-Campeones ",
@@ -1363,8 +1367,8 @@
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	    "url" : "https://dishtrainer.net/embed/52g8nnqi37bly6",
-		"referer" : "https://ligue1live.xyz/",
+	    "url" : "https://zonatv.sbs/canales/deportes2/",
+                     "referer" : "https://zonatv.sbs/canales.php?id=mdeportes2",
 			 "isHost":"true"
 		}, {
 			"name": "Teledeporte",
@@ -1383,7 +1387,9 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://embedme.click/player/3/60" 
+			  "url" : "https://zonatv.sbs/canales/formula1/",
+                     "referer" : "https://zonatv.sbs/canales.php?id=formula1",
+			 "isHost":"true"
         }, {
 			"name": "Euro-Sport 1-Fran",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -1455,7 +1461,9 @@
 			"name": "Esport 3",
 			"image": "https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                      "url": "https://play.matchli.st/live?id=27"
+                                                       "url" : "https://zonatv.sbs/canales/esport3/",
+                                                            "referer" : "https://zonatv.sbs/canales.php?id=esport3",
+			"isHost": "true"       
                       }, {
 			"name": "Aragón TV",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png",
@@ -1550,8 +1558,8 @@
 			 "referer" : "https://ligue1live.xyz/",
 	           "isHost": "true"   
              }, {
-			"name": "Sky Sport football",
                                                      "name": "deporte-libre",  
+		                 "name": "Sky Sport football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			       "url": "https://zonatv.sbs/canales/dazn-laliga/",
