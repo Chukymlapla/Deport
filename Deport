@@ -1382,23 +1382,21 @@
 			"name": "Euro-Sport 1-Fran",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://dishtrainer.net/embed/um6txc0v4k7ji8o",
-		"referer" : "https://ligue1live.xyz/",
-			 "isHost":"true"    
+                     "url" : "https://deporte-libre.buzz/total/stream-524.php"    
                                                          }, {
 			"name": "Euro-Sport 1",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://ivanturbinca.com/embed-video-rds.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Feurosportsd%2Fvideo.m3u8",
-		"referer" : "https://rds.live/",
+                     "url" : "https://dlstreams.st/stream/stream-524.php",
+		"referer" : "https://zonatv.sbs/",
 			 "isHost":"true"     
       }, {
 			"name": "Euro-Sport 2-Fran",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			    "url" : "https://dishtrainer.net/embed/yrm5hpui6v6mj9r",
-		"referer" : "https://ligue1live.xyz/",
-			 "isHost":"true"           
+			   "url" : "https://dlstreams.st/stream/stream-525.php",
+		"referer" : "https://zonatv.sbs/",
+			 "isHost":"true"        
 		   }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
@@ -1547,6 +1545,7 @@
 	           "isHost": "true"   
              }, {
 			"name": "Sky Sport football",
+                                                     "name": "deporte-libre",  
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			       "url": "https://zonatv.sbs/canales/dazn-laliga/",
