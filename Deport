@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  25-08-2026)",
+    "author": "chuky (Actualizada al  26-08-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -1395,7 +1395,7 @@
 			"name": "Euro-Sport 1-Fran",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://deporte-libre.buzz/total/stream-524.php"    
+                     "url" : "https://antena.cdx-08192.website/play/eurosport1-es"    
                                                          }, {
 			"name": "Euro-Sport 1",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -1407,8 +1407,7 @@
 			"name": "Euro-Sport 2-Fran",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" : "https://dlstreams.st/stream/stream-525.php",
-		"referer" : "https://zonatv.sbs/",
+			   "url" : "https://antena.cdx-08192.website/play/eurosport2-es",
 			 "isHost":"true"        
 		   }, {
 			"name": "M-Golf",
@@ -1694,13 +1693,15 @@
                     "name": "Bein Sport Ñ",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                 "url" :  "https://dishtrainer.net/embed/dp4tigbdvjxr4l",
+                                 "url" :  "https://lockpop.net/embed/zj52139k3",
                               "referer" : "https://ligue1live.xyz/",
 			 "isHost" : "true"   
                                                                                      },{
                     "name": "Bein Sport-1",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
-          "url" :  "https://embedme.click/player/3/1"
+        "url" :  "https://lockpop.net/embed/zj52139k3",
+                              "referer" : "http://arizonaplay.club/",
+			 "isHost" : "true"   
 				},{
                     "name": "Bein Sport-2",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",
