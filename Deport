@@ -1265,6 +1265,20 @@
 			  "url" : "https://zonatv.sbs/canales/formula1/",
                      "referer" : "https://zonatv.sbs/canales.php?id=formula1",
 			 "isHost":"true"
+         }, {
+			"name": "Euro-Sport",
+			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url": "https://deporte-libre.buzz/mpd2.php?id=eurosport1-op2",
+                "referer" : "https://deporte-libre.buzz/en-vivo-online/eurosport-1-es/embed2.php",
+                  "isHost": "true"
+      }, {
+			"name": "Euro-Sport 2",
+			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			  "url": "https://deporte-libre.buzz/mpd2.php?id=eurosport2-op2",
+                "referer" : "https://deporte-libre.buzz/en-vivo-online/eurosport-2-es/embed2.php",
+                  "isHost": "true"
         }, {
 			"name": "Euro-Sport 1-Fran",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
