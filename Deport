@@ -584,20 +584,27 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                                   "url" : "https://p5.streamhostingcdn.top/stream/3/index.m3u8",
 			 "userAgent":""
+                                           }, {
+			"name": "La Liga (opción 4)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+	                "url" : "https://instream.click/jwp-us.php?stream=NFLHD5",
+                                                      "referer" : "https://embedhd.click/",
+			"isHost": "true"
                           }, {
-			"name": "La de España (opción 4)",
+			"name": "La de España (opción 5)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		   "url" : "https://p5.streamhostingcdn.top/stream/34/index.m3u8",
 			 "userAgent":""
                                                          }, {
-			"name": "La de España (opción 5)",
+			"name": "La de España (opción 6)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			   "url" : "https://cdx-08192.website/play/movistarlaliga-es",
 			 "isHost":"true"
                                                           }, {
-			"name": "La de España (opción 6)",
+			"name": "La de España (opción 7)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" :  "https://futbollibre.ch/1.php?stream=espndeportes",
@@ -710,7 +717,7 @@
                     "name": "DAZN Liga (Opción 5)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                  "url" :  "https://streamx488.sbs/global1.php?channel=espn"  
+                                  "url" :  "https://streamx061.sbs/global1.php?channel=daznlaliga"  
                                        }, {
                           "name": "DAZN Liga (Opción 6)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
@@ -718,13 +725,13 @@
 	        "url": "https://zonatv.sbs/canales/dazn-laliga/",
                 "referer" : "https://zonatv.sbs/canales.php?id=daznliga",
                   "isHost": "true"  
-                           }, {
-                                                       "name": "86",
-			"name": "DAZN Liga (Opción 7)",
-			   "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
+                       }, {
+                          "name": "DAZN Liga (Opción 7)",
+                    "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-         "url" : "https://zicotv.cc/api/player/1",
-			"isHost" : "true"    
+	                "url" : "https://instream.click/jwp-us.php?stream=NFLHD5",
+                                                      "referer" : "https://embedhd.click/",
+			"isHost": "true"
                         }, {
                       "name" : "29",
                     "name": "DAZN Liga 2",
@@ -1783,7 +1790,7 @@
                          "name": "Disney + Evento 20",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://streamx488.sbs/global1.php?channel=disney20"     
+			                  "url" : "https://tvseba7.blogspot.com/2025/05/www-tvseba-eu_769.html"     
                                                                       
 			}]
              }] 
