@@ -754,7 +754,15 @@
                     "name": "DAZN Liga 2",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		   "url": "https://cdn.livetv884.me/export/webplayer.iframe.php?t=ifr&c=3013096&lan",
+		   "url": "https://embedme.click/player/3/52",
+"isHost": "true" 
+                            }, {
+                      "name" : "28",
+                    "name": "DAZN Liga 2",
+                    "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		   "url": "https://my.lastzone.top/hembedplayer/dfgfgfdg1gfgf/4/500/400",
+                                  "referer" : "https://my.lastzone.top/dfgfgfdg1gfgf",
 "isHost": "true" 
                         }, {
                     "name" : "56-3",
@@ -938,7 +946,8 @@
 			"name": "Moto GP OP 1",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                                                                  "url" : "https://s2.vertex.st/ch?id=26",
+                                                                                                  "url" : "https://my.lastzone.top/hembedplayer/hghghgfh4/4/500/400",
+                                                            "referer" : "https://my.lastzone.top/hghghgfh4",
                                                       "isHost" : "true"
                      }, {       
                                                        "name": "Moto 4/67",
@@ -952,7 +961,7 @@
 			"name": "Moto GP OP 3 Pl",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                        "url" :  "https://emb.apl425.me/live/fsdfsdgf55fdsfdf/",
+                        "url" :  "https://emb.apl427.me/player/live.php?id=265518&w=512&h=288",
 		"isHost" : "true"
                       }, {
 			"name": "Moto GP OP 4",
@@ -1811,7 +1820,9 @@
                          "name": "Disney + Evento 20",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://streamx488.sbs/global1.php?channel=disney20"     
+			                  "url" : "https://intac.live/embx/daznlaliga.php"     ,
+                                                                        "referer" : "https://intac.live/live/daznlaliga_spain.php",
+                                                                      "isHost" : true"
                                                                       
 			}]
              }] 
