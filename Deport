@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  28-08-2026)",
+    "author": "chuky (Actualizada al  29-08-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -927,7 +927,7 @@
 			"name": "Moto GP OP 3 Pl",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                        "url" :  "https://emb.apl427.me/player/live.php?id=265518&w=512&h=288",
+                        "url" :  "https://buzznews4u.com/live/mototgp_spain.php",
 		"isHost" : "true"
                       }, {
 			"name": "Moto GP OP 4",
@@ -947,23 +947,30 @@
 			"name": "Moto GP Op 6",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "source": "own",
-          "channel_id": "66486",
-          "type": "iframe",
-          "url": "https://zicotv.cc/api/player/66486",
-          "player_url": "https://zicotv.cc/api/player/66486",
-          "hd": "true",
-          "language": "es",
-          "is_streaming": "true",
-          "viewers": 124,
-          "referrer_policy": "no-referrer"    
+          "url": "https://matchli.st/player-model.php?code=3956bc1dc7bba2cd",
+          "referer": "https://playfa.st/",
+                   "isHost": "true"   
                       }, {
 			"name": "Moto GP Op 7",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url": "https://streamtp-golden1.click/global1.php?stream=espn2",
+                     "url": "https://streamtp-golden1.click/global1.php?stream=espn3",
                            "referer" : "https://capoplay.icu/",
                                                                "isHost": "true" 
+                                         },{
+                 	             "name": "Moto GP Op 8",
+                "image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               "url": "https://la18hd.su/vivo/canales.php?stream=espn3",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
+                                          },{
+                 	             "name": "Moto GP Op 9",
+                 "image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                                             }, {
 			"name": "Moto GP OP Móvil/PC",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
