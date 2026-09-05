@@ -1720,7 +1720,7 @@
                          "name": "Disney + Evento 8",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://streamx488.sbs/global1.php?channel=disney8"
+			                  "url" : "https://streamx061.sbs/global1.php?channel=disney4global1.php?channel=disney8"
 		 }, {
                          "name": "Disney + Evento 9",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
@@ -1767,17 +1767,18 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			                  "url" : "https://streamx488.sbs/global1.php?channel=disney17"
 		 }, {
-                                 "name": "Disney + Evento 18-",
+                                 "name": "Disney + Evento 18+",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://deportelibre.icu/total/stream-025.php"           
+			                  "url" : "https://s1.nexa.st/ch.php?id=86",    
+                                                                        "referer": "https://zonatv.sbs/",
+                                                                         "isHost" : "true"       
 		 }, {
                          "name": "Disney + Evento 19",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://daddylive1.cx/deporte/stream-918.php",
-                                                                            "referer" : "https://zonatv.sbs/",
-                                                                         "isHost" : "true"
+			                  "url" : "https://deporte-libre7.live/en-vivo-online/laliga/embed2.php",
+                                                                         "userAgent" : "navigator"
 		 }, {
                          "name": "Disney + Evento 20",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
