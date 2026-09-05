@@ -582,8 +582,8 @@
 			"name": "La Liga (opción 3)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                  "url" : "https://p5.streamhostingcdn.top/stream/3/index.m3u8",
-			 "userAgent":""
+                               "url" : "https://deporte-libre7.live/en-vivo-online/laliga/embed2.php",
+                                                                         "userAgent" : "navigator"
                                            }, {
 			"name": "La Liga (opción 4)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -600,20 +600,20 @@
 			"name": "La de España (opción 6)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" : "https://streamx061.sbs/global1.php?channel=mlaliga",
-			 "isHost":"true"
+			   "url" :  "https://w6.sportsonliine.click/channels/hd/hd8.php",
+            "isHost": "true"
                                                           }, {
 			"name": "La de España (opción 7)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://deportelibre.icu/mpd2.php?id=laliga-op4",
-                            "referer" : "https://deportelibre.icu/en-vivo-online/laliga/embed4.php",
+			 "url" :  "https://deportelibre.icu/mpd2.php?id=laliga-op2",
+                            "referer" : "https://deportelibre.icu/en-vivo-online/laliga/embed2.php",
                                                        "isHost" : "true"
                                                           }, {
 			"name": "La Liga (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                "url" : "https://embedme.click/player/3/45",
+	                "url" : "https://embedme.click/player/3/49",
 			"isHost": "true"
                                                           }, {
 			"name": "La de España Móvil/PC.",
