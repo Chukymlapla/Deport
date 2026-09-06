@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  05-09-2026)",
+    "author": "chuky (Actualizada al  06-09-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -613,8 +613,8 @@
 			"name": "La Liga (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                "url" : "https://embedme.click/player/3/49",
-			"isHost": "true"
+	                "url" : "https://deporte-libre7.live/en-vivo-online/laliga/embed3.php",
+                                                                         "userAgent" : "navigator"
                                                           }, {
 			"name": "La de España Móvil/PC.",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -868,7 +868,7 @@
                         "name": "M-F1(OP-4)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://zicotv.cc/api/player/11",
+			  "url" :  "https://zicotv.cc/api/player/91367",
             "isHost": "true"
                                        }, {
                   	"name": "M-F1(OP-5)",
@@ -905,7 +905,7 @@
 			"name": "M-F1-Inglés",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYwE74Kb7H4QnVRzNRfSNva9LFmatr6GfXw&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                               "url" :  "https://zicotv.cc/api/player/43048",
+                                               "url" :  "https://zicotv.cc/api/player/11",
                                                 "embed" : "true"
 	              }, {
                                                        "name": "Moto 29",
