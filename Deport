@@ -594,8 +594,9 @@
 			"name": "La de España (opción 5.)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		   "url" : "https://quellefrappe.click/part/Ll.php?id=1/49",
-                                                                          "isHost" : "true"
+		    "url" : "https://my.lastzone.top/hembedplayer/fghghb444gh/4/500/400",
+                                                            "referer" : "https://my.lastzone.top/fghghb444gh",
+                                                      "isHost" : "true"
                                                          }, {
 			"name": "La de España (opción 6)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -671,14 +672,16 @@
                     "name": "La Seguda división España (opción 6)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                 "url": "https://my.lastzone.top/hembedplayer/fsdf4fd44/4/500/400",
-"referer": "https://my.lastzone.top/fsdf4fd44",
+                 "url": "https://me.lastzone.top/hembedplayer/fdgg6gfgfg/4/500/400",
+"referer": "https://hd.lastzone.top/",
 "isHost": "true"
                                  },{
                     "name": "La Seguda división España (opción 7)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                "url" : "https://emb.apl425.me/player/live.php?id=264252&w=512&h=288"    
+                "url": "https://la18hd.su/vivo/canales.php?stream=hypermotion1",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                                    },{
                     "name": "La Seguda división España (opción 8)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
@@ -868,7 +871,7 @@
                         "name": "M-F1(OP-4)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://zicotv.cc/api/player/91367",
+			  "url" :  "https://zicotv.cc/events/91367",
             "isHost": "true"
                                        }, {
                   	"name": "M-F1(OP-5)",
@@ -905,8 +908,8 @@
 			"name": "M-F1-Inglés",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYwE74Kb7H4QnVRzNRfSNva9LFmatr6GfXw&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                               "url" :  "https://zicotv.cc/api/player/11",
-                                                "embed" : "true"
+                                               "url" :  "https://zicotv.cc/api/player/47323",
+                                              "isHost": "true"
 	              }, {
                                                        "name": "Moto 29",
 			"name": "Moto GP OP 1",
@@ -1416,7 +1419,14 @@
 			"name": "Win Sports",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url": "https://embedme.click/player/3/82"   
+			"url": "https://embedme.click/player/3/82" 
+                                        }, {
+			"name": "Win Sports",
+			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",  
+                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  	  "url": "https://la18hd.su/vivo/canales.php?stream=winsports",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true" 
                                     }, {
 			"name": "TUDN",
 			"image": "https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",
@@ -1500,24 +1510,33 @@
              }, {   
                                    "name": "ESPN 1 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn.jpg",
-               			"url" :  "https://redecanaistv.vision/assistir-espn-online-24-horas-ao-vivo_d1dcae581.html"
+               			"url" :  "https://p225dr1lvr19.38hvkgugvh9n.com/espn.html",
+                                                       "referer"  : "https://rdcanais.net/",
+                                                      "ishost" : "true"
                                    }, {   
                                    "name": "ESPN 2 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn2.jpg",
-               			"url" :  "https://rdcanais.com/espn2",
+               			"url" :  "https://p225dr1lvr19.38hvkgugvh9n.com/espn2.html",
+                                                       "referer"  : "https://rdcanais.net/",
                                                       "ishost" : "true"
                                    }, {   
                                    "name": "ESPN 3 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn3.jpg",
-               			"url" :  "https://minhatelinha.net/assistir-espn-3-ao-vivo-online-gratis-24-horas-hd/"
+               			"url" :  "https://p225dr1lvr19.38hvkgugvh9n.com/espn3.html",
+                                                       "referer"  : "https://rdcanais.net/",
+                                                      "ishost" : "true"
                                    }, {   
                                    "name": "ESPN 4 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn4.jpg",
-               			"url" :  "https://minhatelinha.net/assistir-espn-4-ao-vivo-online-gratis-24-horas-hd/"
+               			"url" :  "https://p225dr1lvr19.38hvkgugvh9n.com/espn4.html",
+                                                       "referer"  : "https://rdcanais.net/",
+                                                      "ishost" : "true"
                                    }, {   
                                    "name": "ESPN 5 Brasil",
 			 "image": "https://minhatelinha.net/wp-content/uploads/espn5.jpg",
-               			"url" :  "https://minhatelinha.net/assistir-espn-5-ao-vivo-online-gratis-24-horas-hd/" 
+               			"url" :  "https://p225dr1lvr19.38hvkgugvh9n.com/espn5.html",
+                                                       "referer"  : "https://rdcanais.net/",
+                                                      "ishost" : "true" 
                                                   }, {
 			"name": "TNT Sport 1-",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
