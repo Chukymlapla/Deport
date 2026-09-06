@@ -1248,9 +1248,16 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://zonatv.sbs/canales/formula1/",
-                     "referer" : "https://zonatv.sbs/canales.php?id=formula1",
-			 "isHost":"true"
+			  "channel_id": "4",
+          "name": "Canal 11",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/11",
+          "player_url": "https://zicotv.cc/api/player/11",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"    
          }, {
 			"name": "Euro-Sport",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
