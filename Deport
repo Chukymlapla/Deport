@@ -1015,7 +1015,7 @@
 			"name": "M-F1-Inglés",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYwE74Kb7H4QnVRzNRfSNva9LFmatr6GfXw&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                               "url" :  "https://zicotv.cc/api/player/47323",
+                                               "url" :  "https://pl.playlist5.space/playlist/56188/nflweekfirst4/caxi",
                                               "isHost": "true"
 	              }, {
                                                        "name": "Moto 29",
@@ -1048,7 +1048,7 @@
                                                       "referer" : "https://embedhd.click/",
 			"isHost": "true"
                       }, {
-                                                     "name": "30",
+                                                     "name": "67",
 			"name": "Moto GP Op 5",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1894,13 +1894,15 @@
                           "name": "Disney + Evento 17-",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://streamx488.sbs/global1.php?channel=disney17"
+			                 "url": "https://zonatv.sbs/canales/dazn-laliga/",
+"referer" : "https://zonatv.sbs/canales.php?id=daznliga",
+"isHost": "true"
 		 }, {
                                  "name": "Disney + Evento 18+",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://s1.nexa.st/ch.php?id=86",    
-                                                                        "referer": "https://zonatv.sbs/",
+			                  "url" : "https://forgemindly.com/embed.php?player=desktop&live=do30",    
+                                                                        "referer": "https://s1.nexa.st/",
                                                                          "isHost" : "true"       
 		 }, {
                          "name": "Disney + Evento 19",
