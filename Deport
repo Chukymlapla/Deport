@@ -691,7 +691,7 @@
 			"name": "La Liga (opción 3)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                               "url" : "https://deporte-libre7.live/en-vivo-online/laliga/embed2.php",
+                               "url" : "https://deporte-libre7.live/en-vivo-online/laliga/embed",
                                                                          "userAgent" : "navigator"
                                            }, {
 			"name": "La Liga (opción 4)",
@@ -805,8 +805,9 @@
                              "name": "DAZN Liga (Opción 1)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" : "https://p5.streamhostingcdn.top/stream/35/index.m3u8",
-			 "userAgent":""
+			   "url" : "https://mediahostexpert.top/embed/player?config=4afa10d0-0cdc-4c97-af70-9b359d414edc",
+			 "referer" : "https://www.matchdirect.live/",
+			 "isHost":"true"
                           }, {
                     "name": "DAZN Liga (Opción 2)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
@@ -1015,8 +1016,7 @@
 			"name": "M-F1-Inglés",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYwE74Kb7H4QnVRzNRfSNva9LFmatr6GfXw&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                               "url" :  "https://pl.playlist5.space/playlist/56188/nflweekfirst4/caxi",
-                                              "isHost": "true"
+                                               "url" :  "https://pl.playlist5.space/playlist/56188/nflweekfirst4/caxi"
 	              }, {
                                                        "name": "Moto 29",
 			"name": "Moto GP OP 1",
@@ -1908,7 +1908,7 @@
                          "name": "Disney + Evento 19",
 			"image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                  "url" : "https://deporte-libre7.live/en-vivo-online/laliga/embed2.php",
+			                  "url" : "https://deporte-libre7.live/en-vivo-online/laliga/embed4.php",
                                                                          "userAgent" : "navigator"
 		 }, {
                          "name": "Disney + Evento 20",
