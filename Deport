@@ -1629,9 +1629,8 @@
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                           "url": "https://streamtp-golden1.click/global1.php?stream=espn",
-                           "referer" : "https://capoplay.icu/",
-                                                               "isHost": "true" 
+                           "url": "http://179.0.44.23:22080/ESPN/index.m3u8",
+                                                               "userAgent": "" 
                   },{
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
@@ -1644,17 +1643,15 @@
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-              "url": "https://streamtp-golden1.click/global1.php?stream=espn2",
-                           "referer" : "https://capoplay.icu/",
-                                                               "isHost": "true" 
+              "url": "http://179.0.44.23:22080/ESPN_2/index.m3u8",
+                                                               "userAgent": "" 
                 },{
                     "name": "89", 
                     "name": "ESPN3-Argentina",
                     "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url": "https://streamtp-golden1.click/global1.php?stream=espn3",
-                           "referer" : "https://capoplay.icu/",
-                                                               "isHost": "true" 
+                   "url": "http://179.0.44.23:22080/ESPN_3/index.m3u8",
+                            "userAgent": ""
                  },{
                     "name": "ESPN3-Argentina",
                     "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
