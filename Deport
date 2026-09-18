@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  16-09-2026)",
+    "author": "chuky (Actualizada al  18-09-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -955,7 +955,7 @@
                           "name": "DAZN Liga (Movil/PC)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                "url" : "https://nadia59bc.mp77g69ainei3gx2voxygen.ru/es/football/spanish-la-liga-4432788/fc-barcelona-vs-racing-santander.html?icg=R0I&ilang=es",
+	                "url" : "https://jack31eo.mpgreatestclgczbmiddle.my/es/football/spanish-la-liga-4432857/rcd-espanyol-de-barcelona-vs-elche-cf.html?icg=RVM&ilang=es",
 			"embed": "true"
                         }, {
                       "name" : "29",
@@ -985,30 +985,49 @@
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       	  "url" : "https://embedme.click/player/3/56",
-             "isHost": "true"
+	       	   "source": "own",
+          "channel_id": "2",
+          "name": "Canal 2",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/2",
+          "player_url": "https://zicotv.cc/api/player/2",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"    
                           }, {
                     "name" : "56-4",
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       	 "url" : "https://play.matchli.st/live?id=30",
-			"isHost" : "true"
+	       	  "url": "https://quellefrappe.click/ty/1/56",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/71",
+                          "isHost": "true"  
 			 },{ 
                   "name" : "57-4",
                  "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           		 "url" : "https://embedme.click/player/3/57",
-             "isHost": "true"
+           		 "source": "own",
+          "channel_id": "3",
+          "name": "Canal 3",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/3",
+          "player_url": "https://zicotv.cc/api/player/3",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"    
 	           },{ 
                  "name": "29",
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                      "url" :  "https://stocklunch.net/embed/wnm78ydq",
-		                  "referer" : "https://glisco.link/",
-			 "isHost":"true"
+                                       "url": "https://quellefrappe.click/ty/1/57",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/57",
+                          "isHost": "true"  
 		     },{ 
                   "name":"8",
                  "name": "(DAZN 3)",
@@ -1020,9 +1039,9 @@
                "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                 "url" : "https://dishtrainer.net/embed/8vj7aj9",
-                     "referer" : "https://ligue1live.xyz/",
-			 "isHost":"true"
+                                  "url": "https://quellefrappe.click/ty/1/58",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/58",
+                          "isHost": "true"  
 	          },{ 
                  "name": "(DAZN 4)",
                     "image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
@@ -1033,9 +1052,9 @@
                "name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                            "url" : "https://dishtrainer.net/embed/xy2i0bo",
-		        "referer": "https://ligue1live.xyz/",
-             "isHost": "true"
+                            "url": "https://quellefrappe.click/ty/1/59",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/59",
+                          "isHost": "true"  
                                   },{ 
                 "name": "(DAZN Basket 1)",
                     "image": "https://i.ibb.co/GQX9ftN9/acuerdo-de-baloncesto-entre-movistar-plus-y-dazn.webp",
@@ -1257,29 +1276,48 @@
 	                "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" : "https://embedme.click/player/3/56",
-			"isHost" : "true"
+			   "source": "own",
+          "channel_id": "2",
+          "name": "Canal 2",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/2",
+          "player_url": "https://zicotv.cc/api/player/2",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"    
                          }, {
-                       "name" : "56-3",
-	                "name": "(Universo)",
+                        "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://embedme.click/player/3/72"
+                     "url": "https://quellefrappe.click/ty/1/56",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/56",
+                          "isHost": "true"  
                     }, {
                         "name" : "57-4",
 			 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		                 "url" : "https://embedme.click/player/3/57",
-             "isHost": "true"
+		                "source": "own",
+          "channel_id": "3",
+          "name": "Canal 3",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/3",
+          "player_url": "https://zicotv.cc/api/player/3",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"    
                        }, {
                         "name" : "57-3",
 			 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		                "url" : "https://articulatebreak.net/embed/yh3o7p7",
-		        "referer": "https://ligue1live.xyz/",
-             "isHost": "true"
+		               "url": "https://quellefrappe.click/ty/1/57",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/57",
+                          "isHost": "true"  
                 }, {
 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
@@ -1291,8 +1329,9 @@
 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			 "url": "https://play.matchli.st/live?id=28",
-"isHost": "true" 
+ 			  "url": "https://quellefrappe.click/ty/1/58",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/58",
+                          "isHost": "true"  
                }, {
 			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
@@ -1303,9 +1342,9 @@
 			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" : "https://stocklunch.net/embed/3d44n21uf8pkocd",
-                  "referer" : "https://glisco.link/",
-            "isHost": "true"
+          "url": "https://quellefrappe.click/ty/1/59",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/59",
+                          "isHost": "true"  
                      }, {
                         "name": "aw/ajaxw", 
 			"name": "Partido en (Extranjero)",
