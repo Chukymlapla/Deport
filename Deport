@@ -238,8 +238,8 @@
             "image": "https://assets.turbologo.com/blog/es/2019/12/19132851/NFL-logo-cover.jpg",
             "info": "",
             "stations": [{
-                                "name": "Evento 1",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+                                "name": "New York Giants",
+			"image": "https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-York-Giants.svg",
 	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
