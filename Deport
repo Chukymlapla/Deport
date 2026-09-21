@@ -239,7 +239,7 @@
             "info": "",
             "stations": [{
                                 "name": "New York Giants",
-			"image": "https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-York-Giants.svg",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
 	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
