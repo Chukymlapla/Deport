@@ -239,62 +239,163 @@
             "info": "",
             "stations": [{
                                 "name": "New York Giants",
+			"image": "https://images.seeklogo.com/logo-png/24/2/new-york-giants-logo-png_seeklogo-246436.png",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+			  "name": "Los Angeles Rams",
+			"image": "https://images.seeklogo.com/logo-png/32/2/los-angeles-rams-logo-png_seeklogo-326516.png",
+	               "url" : "https://nflwebcast.com/live/rams.html",
+			"isHost": "true"
+                         }, {  
+                     "name": "New York Giants",
 			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
 	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
-			 "name": "Evento 2",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instream.click/jwp-us.php?stream=NFLHD2",
-                                                      "referer" : "https://embedhd.click/",
+                          "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
-                     "name": "Evento 3",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	              "url" : "https://instream.click/jwp-us.php?stream=NFLHD3",
-                                                      "referer" : "https://embedhd.click/",
+                          "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
-                         "name": "Evento 4",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instream.click/jwp-us.php?stream=NFLHD4",
-                                                      "referer" : "https://embedhd.click/",
+                                                      "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
-                        "name": "Evento 5",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	                "url" : "https://instream.click/jwp-us.php?stream=NFLHD5",
-                                                      "referer" : "https://embedhd.click/",
-			"isHost": "true"
-                        }, {
-			 "name": "Evento 6",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instream.click/jwp-us.php?stream=NFLHD6",
-                                                      "referer" : "https://embedhd.click/",
-			"isHost": "true"
-                        }, {
-			 "name": "Evento 7",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instream.click/jwp-us.php?stream=NFLHD7",
-                                                      "referer" : "https://embedhd.click/",
+                             "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
-                                                     "name": "Evento 8",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	                "url" : "https://instream.click/jwp-us.php?stream=NFLHD8",
-                                                      "referer" : "https://embedhd.click/",
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                     "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                          "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                          "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                         }, {
-			 "name": "Evento 9",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	              "url" : "https://instream.click/jwp-us.php?stream=NFLHD9",
-                                                      "referer" : "https://embedhd.click/",
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                         }, {
-			 "name": "Evento 10",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	             "url" : "https://instream.click/jwp-us.php?stream=NFLHD10",
-                                                      "referer" : "https://embedhd.click/",
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                                                      "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                             "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                     "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                          "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                          "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                         }, {  
+                                                      "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
+			"isHost": "true"
+                        }, {
+			  "name": "New York Giants",
+			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
 		}]
                    },{
