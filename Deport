@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  20-09-2026)",
+    "author": "chuky (Actualizada al  21-09-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -240,8 +240,7 @@
             "stations": [{
                                 "name": "Evento 1",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-	               "url" : "https://instream.click/jwp-us.php?stream=NFLHD1",
-                                                      "referer" : "https://embedhd.click/",
+	               "url" : "https://nflwebcast.com/live/giants.html",
 			"isHost": "true"
                          }, {  
 			 "name": "Evento 2",
