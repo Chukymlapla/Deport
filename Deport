@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  21-09-2026)",
+    "author": "chuky (Actualizada al  22-09-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -248,154 +248,144 @@
 	               "url" : "https://nflwebcast.com/live/rams.html",
 			"isHost": "true"
                          }, {  
-                     "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                     "name": "Baltimore Ravens",
+			"image": "https://images.seeklogo.com/logo-png/19/2/baltimore-ravens-logo-png_seeklogo-196542.png",
+	               "url" : "https://nflwebcast.com/live/ravens.html",
 			"isHost": "true"
                          }, {  
-                          "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                          "name": "Buffalo Bills",
+			"image": "https://images.seeklogo.com/logo-png/22/2/buffalo-bills-logo-png_seeklogo-225278.png",
+	               "url" : "https://nflwebcast.com/live/bills.html",
 			"isHost": "true"
                          }, {  
-                          "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                          "name": "Carolina Panthers",
+			"image": "https://images.seeklogo.com/logo-png/18/2/carolina-panthers-logo-png_seeklogo-184285.png",
+	               "url" : "https://nflwebcast.com/live/panthers.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Chicago Bears",
+			"image": "https://images.seeklogo.com/logo-png/19/2/chicago-bears-logo-png_seeklogo-197905.png",
+	               "url" : "https://nflwebcast.com/live/bears.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Cincinnati Bengals",
+			"image": "https://images.seeklogo.com/logo-png/28/2/cincinnati-bengals-logo-png_seeklogo-289070.png",
+	               "url" : "https://nflwebcast.com/live/bengals.html",
 			"isHost": "true"
                          }, {  
-                                                      "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                                                      "name": "Cleveland Browns",
+			"image": "https://images.seeklogo.com/logo-png/28/2/cleveland-browns-logo-png_seeklogo-286728.png",
+	               "url" : "https://nflwebcast.com/live/browns.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Dallas Cowboys",
+			"image": "https://images.seeklogo.com/logo-png/19/2/dallas-cowboys-logo-png_seeklogo-198705.png",
+	               "url" : "https://nflwebcast.com/live/cowboys.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Denver Broncos",
+			"image": "https://images.seeklogo.com/logo-png/24/2/denver-broncos-logo-png_seeklogo-244461.png",
+	               "url" : "https://nflwebcast.com/live/broncos.html",
 			"isHost": "true"
                          }, {  
-                             "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                             "name": "Detroit Lions",
+			"image": "https://images.seeklogo.com/logo-png/24/2/detroit-lions-logo-png_seeklogo-247825.png",
+	               "url" : "https://nflwebcast.com/live/lions.html",
 			"isHost": "true"
                          }, {  
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Green Bay Packers",
+			"image": "https://images.seeklogo.com/logo-png/22/2/green-bay-packers-logo-png_seeklogo-221756.png",
+	               "url" : "https://nflwebcast.com/live/packers.html",
 			"isHost": "true"
                          }, {  
-                     "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                     "name": "Houston Texans",
+			"image": "https://images.seeklogo.com/logo-png/28/2/houston-texans-logo-png_seeklogo-288800.png",
+	               "url" : "https://nflwebcast.com/live/texans.html",
 			"isHost": "true"
                          }, {  
-                          "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                          "name": "Indianapolis Colts",
+			"image": "https://images.seeklogo.com/logo-png/20/2/indianapolis-colts-logo-png_seeklogo-200049.png",
+	               "url" : "https://nflwebcast.com/live/colts.html",
 			"isHost": "true"
                          }, {  
-                          "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                          "name": "Jacksonville Jaguars",
+			"image": "https://images.seeklogo.com/logo-png/17/2/jacksonville-jaguars-logo-png_seeklogo-174496.png",
+	               "url" : "https://nflwebcast.com/live/jaguars.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Kansas City Chiefs",
+			"image": "https://images.seeklogo.com/logo-png/31/2/kansas-city-chiefs-logo-png_seeklogo-312049.png",
+	               "url" : "https://nflwebcast.com/live/chiefs.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Los Angeles Chargers",
+			"image": "https://images.seeklogo.com/logo-png/37/2/los-angeles-chargers-logo-png_seeklogo-372809.png",
+	               "url" : "https://nflwebcast.com/live/chargers.html",
 			"isHost": "true"
                          }, {  
-                                                      "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                                                      "name": "Miami Dolphins",
+			"image": "https://images.seeklogo.com/logo-png/21/2/miami-dolphins-logo-png_seeklogo-210859.png",
+	               "url" : "https://nflwebcast.com/live/dolphins.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Minnesota Vikings",
+			"image": "https://images.seeklogo.com/logo-png/19/2/minnesota-vikings-logo-png_seeklogo-196307.png",
+	               "url" : "https://nflwebcast.com/live/vikings.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "New England Patriots",
+			"image": "https://images.seeklogo.com/logo-png/29/2/new-england-patriots-logo-png_seeklogo-297967.png",
+	               "url" : "https://nflwebcast.com/live/patriots.html",
 			"isHost": "true"
                          }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "New Orleans Saints",
+			"image": "https://images.seeklogo.com/logo-png/24/2/new-orleans-saints-logo-png_seeklogo-247810.png",
+	               "url" : "https://nflwebcast.com/live/saints.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "New York Jets",
+			"image": "https://images.seeklogo.com/logo-png/37/2/new-york-jets-logo-png_seeklogo-370296.png",
+	               "url" : "https://nflwebcast.com/live/jets.html",
 			"isHost": "true"
                          }, {  
-                             "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                             "name": "Las Vegas Raiders",
+			"image": "https://images.seeklogo.com/logo-png/39/2/las-vegas-raiders-logo-png_seeklogo-391371.png",
+	               "url" : "https://nflwebcast.com/live/raiders.html",
 			"isHost": "true"
                          }, {  
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Philadelphia Eagles",
+			"image": "https://images.seeklogo.com/logo-png/24/2/philadelphia-eagles-logo-png_seeklogo-247783.png",
+	               "url" : "https://nflwebcast.com/live/eagles.html",
 			"isHost": "true"
                          }, {  
-                     "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                     "name": "Pittsburgh Steelers",
+			"image": "https://images.seeklogo.com/logo-png/10/2/pittsburgh-steelers-logo-png_seeklogo-109275.png",
+	               "url" : "https://nflwebcast.com/live/steelers.html",
 			"isHost": "true"
                          }, {  
-                          "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                          "name": "San Francisco 49ers",
+			"image": "https://images.seeklogo.com/logo-png/22/2/san-francisco-49ers-logo-png_seeklogo-224023.png",
+	               "url" : "https://nflwebcast.com/live/49ers.html",
 			"isHost": "true"
                          }, {  
-                          "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                          "name": "Seattle Seahawks",
+			"image": "https://images.seeklogo.com/logo-png/23/2/seattle-seahawks-logo-png_seeklogo-239754.png",
+	               "url" : "https://nflwebcast.com/live/seahawks.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Tampa Bay Buccaneers",
+			"image": "https://images.seeklogo.com/logo-png/24/2/tampa-bay-buccaneers-logo-png_seeklogo-247851.png",
+	               "url" : "https://nflwebcast.com/live/buccaneers.html",
 			"isHost": "true"
                         }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+			  "name": "Tennessee Titans",
+			"image": "https://images.seeklogo.com/logo-png/26/2/tennessee-titans-logo-png_seeklogo-268173.png",
+	               "url" : "https://images.seeklogo.com/logo-png/26/2/tennessee-titans-logo-png_seeklogo-268173.png",
 			"isHost": "true"
                          }, {  
-                                                      "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
-			"isHost": "true"
-                        }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
-			"isHost": "true"
-                        }, {
-			  "name": "New York Giants",
-			"image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/1280px-New_York_Giants_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-	               "url" : "https://nflwebcast.com/live/giants.html",
+                                                      "name": "Washington Commanders",
+			"image": "https://images.seeklogo.com/logo-png/43/2/washington-commanders-logo-png_seeklogo-430443.png",
+	               "url" : "https://nflwebcast.com/live/washington.html",
 			"isHost": "true"
 		}]
                    },{
