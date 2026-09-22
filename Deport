@@ -387,6 +387,16 @@
 			"image": "https://images.seeklogo.com/logo-png/43/2/washington-commanders-logo-png_seeklogo-430443.png",
 	               "url" : "https://nflwebcast.com/live/washington.html",
 			"isHost": "true"
+                              }, {
+			  "name": "Arizona Cardinals",
+			"image": "https://images.seeklogo.com/logo-png/25/2/arizona-cardinals-logo-png_seeklogo-250167.png",
+                                                         "url" : "https://nflwebcast.com/live/cardinals.html",
+			"isHost": "true"
+                         }, {  
+                                                      "name": "Atlanta Falcons",
+			"image": "https://images.seeklogo.com/logo-png/28/2/atlanta-falcons-logo-png_seeklogo-288692.png",
+	               "url" : "https://nflwebcast.com/live/falcons.html",
+			"isHost": "true"
 		}]
                    },{
             "name": "NHL 🏒 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
