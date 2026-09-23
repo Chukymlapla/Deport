@@ -84,9 +84,10 @@
             "info": "",
             "stations": [{
               "name": "hd TV",
-                                                      "name": "MLB TV-",
+                                                      "name": "MLB TV",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
-			   "url": "https://r.clearstreamdv.com/live/player.php?ch=es9",
+			   "url": "https://embed.st/embed-low/ingest/es7/1#player=clappr&autoplay=true",
+                                                       "referer" : "https://embed.sportspatrika.com/",
                                                        "isHost": "true" 
              }, {
 			"name": "Evento 1",
