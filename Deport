@@ -84,9 +84,9 @@
             "info": "",
             "stations": [{
               "name": "hd TV",
-                                                      "name": "MLB TV",
+                                                      "name": "MLB TV-",
 			"image": "https://variety.com/wp-content/uploads/2019/03/mlb-tv.jpg",
-			   "url": "https://play.matchli.st/live?id=8",
+			   "url": "https://r.clearstreamdv.com/live/player.php?ch=es9",
                                                        "isHost": "true" 
              }, {
 			"name": "Evento 1",
