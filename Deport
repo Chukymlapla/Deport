@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  24-09-2026)",
+    "author": "chuky (Actualizada al  25-09-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -1206,13 +1206,24 @@
                         "name": "M-F1(OP-4)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://zicotv.cc/events/94055",
+			 "source": "own",
+          "channel_id": "11",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/11",
+          "player_url": "https://zicotv.cc/api/player/11",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"    
             "isHost": "true"
                                        }, {
                   	"name": "M-F1(OP-5)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://deporte-libre7.live/mpd2.php?id=formula1"
+                  	 "url": "https://deporte7-libre.live/mpd2.php?id=formula1-op3",
+                                             "referer" : "https://deporte7-libre.live/total/stream-537.php",
+                                                      "isHost" : "true"
                                         }, {
                   	"name": "M-F1(OP-6-)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1590,12 +1601,10 @@
 			  "url" : "https://quellefrappe.click/part/Ll.php?id=1/60",
                                                                           "isHost" : "true"
                                    }, {
-                                                      "name": "60-4",
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			  "channel_id": "4",
-          "name": "Canal 11",
           "type": "iframe",
           "url": "https://zicotv.cc/api/player/11",
           "player_url": "https://zicotv.cc/api/player/11",
