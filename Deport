@@ -600,16 +600,15 @@
                     "name": "Opción 2(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            	 "url" : "https://zonatv.sbs/canales/deportes/",
-                     "referer" : "https://zonatv.sbs/canales.php?id=mdeportes",
+            	 "url" : "https://zonatv.sbst/canales/deportes/",
 			 "isHost":"true"
                 },{
                  "name": "lat55",
                  "name": "Opción 1(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url" : "https://zonatv.sbs/canales/vamos/op3.php", 
-                      "referer" : "https://zonatv.sbs/canales.php?id=vamos-op3",
+                   "url" : "https://zonatv.sbst/canales/vamos/op3.php", 
+                      "referer" : "https://zonatv.sbst/canales.php?id=vamos-op3",
 			 "isHost":"true"
                     },{ 
                  "name": "18",     
@@ -1253,8 +1252,8 @@
 			"name": "Moto GP Op 2",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                           "url" : "https://zonatv.sbs/canales/motogp-channel/",
-                                                            "referer" : "https://zonatv.sbs/canales.php?id=motogp-channel",
+                                                           "url" : "https://zonatv.sbst/canales/motogp-channel/",
+                                                            "referer" : "https://zonatv.sbst/canales.php?id=motogp-channel",
 			"isHost": "true"       
                           }, {
 			"name": "Moto GP OP 3 Pl",
@@ -1525,8 +1524,8 @@
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            		   "url" : "https://zonatv.sbs/canales/vamos/",
-                     "referer" : "https://zonatv.sbs/canales.php?id=vamos",
+            		   "url" : "https://zonatv.sbst/canales/vamos/",
+                     "referer" : "https://zonatv.sbst/canales.php?id=vamos",
 			 "isHost":"true"
 		}, {
                                                     "name": "M-Campeones 61 3",
@@ -1559,8 +1558,8 @@
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url" : "https://zonatv.sbs/canales/deportes/",
-                     "referer" : "https://zonatv.sbs/canales.php?id=mdeportes",
+                    "url" : "https://zonatv.sbst/canales/deportes/",
+                     "referer" : "https://zonatv.sbst/canales.php?id=mdeportes",
 			 "isHost":"true"
                             }, {  			
                                                        "name": "M-Deportes 62-3",
@@ -1574,8 +1573,8 @@
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	    "url" : "https://zonatv.sbs/canales/deportes2/",
-                     "referer" : "https://zonatv.sbs/canales.php?id=mdeportes2",
+	    "url" : "https://zonatv.sbst/canales/deportes2/",
+                     "referer" : "https://zonatv.sbst/canales.php?id=mdeportes2",
 			 "isHost":"true"
 		}, {
 			"name": "Teledeporte",
@@ -1692,8 +1691,8 @@
 			"name": "Esport 3",
 			"image": "https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                       "url" : "https://zonatv.sbs/canales/esport3/",
-                                                            "referer" : "https://zonatv.sbs/canales.php?id=esport3",
+                                                       "url" : "https://zonatv.sbst/canales/esport3/",
+                                                            "referer" : "https://zonatv.sbst/canales.php?id=esport3",
 			"isHost": "true"       
                       }, {
 			"name": "Aragón TV",
