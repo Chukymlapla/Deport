@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  27-09-2026)",
+    "author": "chuky (Actualizada al  02-10-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -589,6 +589,42 @@
             "image": "https://i.ibb.co/J7ZM8v6/acb-euroliga.jpg",
             "info": "",
             "stations": [{
+                                "name": "Baloncesto M+",
+	          "image": "https://www.movistarplus.es/recorte/n/caratula5/M2562138V4305140",
+                            "url": "https://quellefrappe.click/ty/1/62",
+                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/62",
+                            "isHost": "true"     
+                                }, {
+	          "name": "M+",
+	          "image": "https://www.mundoplus.tv/wp-content/uploads/2023/07/logo_mplus.jpg",
+                            "url": "https://quellefrappe.click/ty/1/67",
+                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/67",
+                            "isHost": "true"  
+                                  }, {
+	          "name": "Vamos 2",
+	          "image": "https://www.mundoplus.tv/wp-content/uploads/2025/11/movistarplus_vamos2_logo-1068x601.jpg",
+                            "url": "https://quellefrappe.click/ty/1/65",
+                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/65",
+                            "isHost": "true"
+                                      }, {
+	          "name": "Vamos 3",
+	          "image": "https://www.movistarplus.es/recorte/m-DP/canal/MELLAV.png",
+                            "url": "https://quellefrappe.click/ty/1/64",
+                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/64",
+                            "isHost": "true"
+                                  }, {
+	          "name": "Baloncesto 4 M+",
+	          "image": "https://www.movistarplus.es/recorte/n/caratula5/M2669314V4403884",
+                            "url": "https://quellefrappe.click/ty/1/63",
+                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/63",
+                            "isHost": "true"
+                                   }, {
+	          "name": "Baloncesto 5 M+",
+	          "image": "https://www.movistarplus.es/recorte/n/caratula5/M2669999V4403916",
+                            "url": "https://quellefrappe.click/ty/1/66",
+                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/66",
+                            "isHost": "true"   
+                                }, {
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1724,8 +1760,9 @@
                     "name": "Bein Sport Ñ",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                   "url" : "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
-			 "userAgent":""
+                               "url": "https://quellefrappe.click/ty/1/69",
+                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/69",
+                            "isHost": "true"
                       },{
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
