@@ -71,11 +71,61 @@
                                                       "referer" : "https://embedhd.click/",
 			"isHost": "true"
                                                       }, {
-           "name": "Evento 10",
+                                                      "name": "Evento 10",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://instream.click/jwp-us.php?stream=NBA10",
                                                       "referer" : "https://embedhd.click/",
 			"isHost": "true"
+                                                       }, {  
+                                                      "name": "Reserva 1",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba.m3u8",
+			"userAgent": ""
+              }, {
+			"name": "Reserva 2",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba2.m3u8",
+			"userAgent": ""
+             }, {
+			"name": "Reserva 3",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba3.m3u8",
+			"userAgent": ""
+              }, {  
+                                                       "name": "Reserva 4",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba4.m3u8",
+			"userAgent": ""
+              }, {
+			"name": "Reserva 5",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba5.m3u8",
+			"userAgent": ""
+             }, {
+			"name": "Reserva 6",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba6.m3u8",
+			"userAgent": ""
+                                                      }, {
+                                                      "name": "Reserva 7",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba7.m3u8",
+			"userAgent": ""
+                                                       }, {
+			"name": "Reserva 8",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba8.m3u8",
+			"userAgent": ""
+             }, {
+			"name": "Reserva 9",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba9.m3u8",
+			"userAgent": ""
+                                                      }, {
+                                                      "name": "Reserva 10",
+			"image": "https://i.pinimg.com/736x/2e/2b/84/2e2b84dfcd21f1d3c4f6baea52462e9d.jpg",
+			"url" : "https://tedesco.formaturamaxi.com.br/nba10.m3u8",
+			"userAgent": ""
                                }]
                     },{
             "name": "MLB ⚾",
@@ -1035,8 +1085,7 @@
                     "name": "DAZN Liga (Opción 2)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" :  "https://new.finalspot.top/hembedplayer/fdsfgg444gf/4/500/400",
-		                  "referer" : "https://new.finalspot.top/fdsfgg444gf",
+			   "url" :  "https://asiria.is/dazn1laliga.php",
 			 "isHost":"true"
                           }, {
                     "name": "DAZN Liga (Opción 3)",
