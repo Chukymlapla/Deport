@@ -861,12 +861,24 @@
                			  "url": "https://quellefrappe.click/ty/1/61",
                                                             "referer" : "https://quellefrappe.click/part/Ll.php?id=1/61",
                           "isHost": "true" 
+                                         }, {
+                                 "name": "Campeones 1",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			     "url" :  "https://mediahostexpert.top/embed/player?config=2b03fafc-656e-4df7-9cc2-a620a5526af0",
+                            "referer" : "https://www.matchdirect.live/",
+                                                       "isHost" : "true" 
                                  }, {
                                  "name": "Campeones 2",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
                			     "url": "https://quellefrappe.click/ty/1/162",
                                                             "referer" : "https://quellefrappe.click/part/Ll.php?id=1/162",
                           "isHost": "true" 
+                                   }, {
+                                 "name": "Campeones 2",
+			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+               			     "url" :  "https://mediahostexpert.top/embed/player?config=6181a880-0f13-4b11-b4d0-f737aa8e7a00",
+                            "referer" : "https://www.matchdirect.live/",
+                                                       "isHost" : "true"
                                  }, {
                            "name": "Campeones 3",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
@@ -2015,11 +2027,11 @@
 			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 				   "source": "own",
-          "channel_id": "4",
-          "name": "Canal 4",
+          "channel_id": "6",
+          "name": "Canal 6",
           "type": "iframe",
-          "url": "https://zicotv.cc/api/player/4",
-          "player_url": "https://zicotv.cc/api/player/4",
+          "url": "https://zicotv.cc/api/player/6",
+          "player_url": "https://zicotv.cc/api/player/6",
           "hd": "true",
           "language": "es",
           "is_streaming": "true",
