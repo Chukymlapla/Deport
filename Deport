@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  05-10-2026)",
+    "author": "chuky (Actualizada al  14-10-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -747,97 +747,158 @@
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-                                                         "name": "palo", 
-                                                       "name": "Campeones 5",
-			"name": "Napoli - Arsenal",
+                                                       "name": "Campeones 2",
+			"name": "LASK - Liverpool",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url" :  "https://new.goagain.top/hembedplayer/hbdjhnfj444gfd/4/500/400",
-		                  "referer" : "https://new.goagain.top/hbdjhnfj444gfd",
-			 "isHost":"true"
+                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                     }, {
-                                                       "name": "Campeones 5",
-			"name": "Napoli - Arsenal",
+                                                       "name": "Campeones 2",
+			"name": "LASK - Liverpool",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                 "url": "https://quellefrappe.click/ty/1/165",
                                                             "referer" : "https://quellefrappe.click/part/Ll.php?id=1/165",
                           "isHost": "true" 
                     }, {
-			  "name": "palo", 
                                                        "name": "Campeones 3",
-			"name": "Stuttgart - Viking",
+			"name": "Feyenoord - Como",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url" :  "https://me.lastzone.top/hembedplayer/gertge1111dwsf/4/500/400",
-		                  "referer" : "https://hd.lastzone.top/",
-			 "isHost":"true"
+                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                    }, {
                                                      "name": "Campeones 3",
-			"name": "Stuttgart - Viking",
+			"name": "Feyenoord - Como",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                 "url": "https://quellefrappe.click/ty/1/163",
                                                             "referer" : "https://quellefrappe.click/part/Ll.php?id=1/163",
                           "isHost": "true" 
                           }, {
-			  "name": "palo", 
                                                        "name": "Campeones",
-			"name": "FC Barcelona - Feyenoord / Liverpool - Atlético de Madrid",
+			"name": "AS Roma - Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url" :  "https://new.goagain.top/hembedplayer/jhfgjhgj4jhj4/4/500/400",
-		                  "referer" : "https://new.goagain.top/jhfgjhgj4jhj4",
-			 "isHost":"true"
+                                                   "channel_id": "6",
+          "type": "iframe",
+          "url": "https://zicotv.cc/api/player/6",
+          "player_url": "https://zicotv.cc/api/player/6",
+          "hd": "true",
+          "language": "es",
+          "is_streaming": "true",
+          "viewers": 124,
+          "referrer_policy": "no-referrer"  
                    }, {
                                                      "name": "Campeones",
-			"name": "FC Barcelona - Feyenoord / Liverpool - Atlético de Madrid",
+			"name": "AS Roma - Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                 "url": "https://quellefrappe.click/ty/1/61",
                                                             "referer" : "https://quellefrappe.click/part/Ll.php?id=1/61",
                           "isHost": "true" 
                             }, {
                                                      "name": "Campeones",
-			"name": "FC Barcelona - Feyenoord / Liverpool - Atlético de Madrid",
+			"name": "AS Roma - Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url": "https://la18hd.su/vivo/canales.php?stream=tudn",
+			   "url": "https://la18hd.su/vivo/canales.php?stream=tudn",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                                                    }, {
                                                      "name": "Campeones",
-			"name": "FC Barcelona - Feyenoord / Liverpool - Atlético de Madrid",
+			"name": "AS Roma - Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url": "https://streamtp-golden1.click/global1.php?stream=espn",
-                           "referer" : "https://capoplay.icu/",
-                                                               "isHost": "true" 
+			  "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                                                       }, {
                                                       "name": "Campeones",
-			"name": "FC Barcelona - Feyenoord / Liverpool - Atlético de Madrid",
+			"name": "AS Roma - Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url" :  "https://zicotv.cc/api/player/6"
-                                                          }, {
-                                                      "name": "Campeones 6",
-			"name": "Sporting CP - Galatasaray",
+			 "url" :  "https://mediahostexpert.top/embed/player?config=2b03fafc-656e-4df7-9cc2-a620a5526af0",
+                                                       "referer" : "https://www.matchdirect.live/",
+                                                        "isHost": "true"
+                                                         }, {
+                                                           "name": "Campeones 2",
+			"name": "Betis - FC Porto",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                   "url": "https://quellefrappe.click/ty/1/166",
-                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/166",
+                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn7",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
+                    }, {
+                                                       "name": "Campeones 2",
+			"name": "Betis - FC Porto",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+           		                 "url": "https://quellefrappe.click/ty/1/165",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/165",
+                          "isHost": "true" 
+                                                 }, {
+                                                       "name": "Campeones 3",
+			"name": "Manchester City - PSG",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
+                   }, {
+                                                     "name": "Campeones 3",
+			"name": "Manchester City - PSG",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+           		                 "url": "https://quellefrappe.click/ty/1/163",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/163",
                           "isHost": "true" 
                                                       }, {
-                                                      "name": "Campeones 5 ",
-			"name": "Sporting CP - Galatasaray",
+                                                       "name": "Campeones 5",
+			"name": "Shakhtar - AEK",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                    "url": "https://la18hd.su/vivo/canales.php?stream=espn4",
+                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn10",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
+                   }, {
+                                                     "name": "Campeones 6",
+			"name": "Shakhtar - AEK",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+           		                 "url": "https://quellefrappe.click/ty/1/166",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/166",
+                          "isHost": "true" 
+                                                          }, {
+                                                      "name": "Campeones 5",
+			"name": "Aston Villa - Fenerbahce",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                   "url": "https://quellefrappe.click/ty/1/165",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/165",
+                          "isHost": "true" 
+                                                      }, {
+                                                      "name": "Campeones 5",
+			"name": "Aston Villa - Fenerbahce",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                                                    "url": "https://la18hd.su/vivo/canales.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                      }, {
-                                                      "name": "Campeones 3",
-			"name": "PSG - Bratislava",
+                                                      "name": "Campeones 8",
+			"name": "Bratislava - Stuttgart",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			   "url": "https://quellefrappe.click/ty/1/163",
-                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/163",
+			   "url": "https://quellefrappe.click/ty/1/168",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/168",
                           "isHost": "true" 
                                              }, {
                                                         "name": "Campeones 3",
-			"name": "PSG - Bratislava",
+			"name": "Bratislava - Stuttgart",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                   "url" :  "https://me.lastzone.top/hembedplayer/gertge1111dwsf/4/500/400",
-		                  "referer" : "https://hd.lastzone.top/",
-			 "isHost":"true"
+		                  "url": "https://la18hd.su/vivo/canales.php?stream=espn4",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
+                                                   }, {
+                                                      "name": "Campeones 3",
+			"name": "Bodo/Glimt - Borussia Dortmund",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			   "url": "https://quellefrappe.click/ty/1/167",
+                                                            "referer" : "https://quellefrappe.click/part/Ll.php?id=1/167",
+                          "isHost": "true" 
+                                             }, {
+                                                        "name": "Campeones 3",
+			"name": "Bodo/Glimt - Borussia Dortmund",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                  "url": "https://la18hd.su/vivo/canales.php?stream=espn5",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                                               }, {
                                                       "name": "Multichampions",
 			"image": "https://a.espncdn.com/photo/2023/0830/r1217896_1295x729_16-9.png",
