@@ -1623,7 +1623,6 @@
 		"image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/02/07/3544930-72245768-2560-1440.jpg",
 		"info": "",
 		"stations": [{
-                        "name": "milan", 
 			"name": "Opción 1",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -1631,13 +1630,18 @@
                                                             "referer" : "https://pepite.lat/",
                           "isHost": "true" 
 		}, { 
-			"name": "40",
 			"name": "Opción 2",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			          "url": "https://tvboss.lat/ty/1/14",
                                                             "referer" : "https://pepite.lat/",
                           "isHost": "true" 
+                                     }, { 
+			"name": "Opción 3",
+			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			           "url" :  "https://streame.center/embed/ch7.php",
+			 "isHost":"true" 
 		}]
 	}, {
 		"name": "Serie A (Italia)  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -1653,7 +1657,7 @@
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                              "url" :  "https://rds.live/tv-primasport-3-hd-ro1/",
+                                              "url" :  "https://streame.center/embed/ch9.php",
 			 "isHost":"true" 
                                    }, {
 			"name": "",
