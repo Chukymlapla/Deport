@@ -638,14 +638,14 @@
             "stations": [{
                                 "name": "Baloncesto M+",
 	          "image": "https://www.movistarplus.es/recorte/n/caratula5/M2562138V4305140",
-                            "url": "https://tvboss.lat/ty/1/62",
-                            "referer" : "https://pepite.lat/",
-                            "isHost": "true"     
+                              "url": "https://tvboss.lat/ty/3/62",
+                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/62",
+                          "isHost": "true"    
                                 }, {
 	          "name": "M+",
 	          "image": "https://www.mundoplus.tv/wp-content/uploads/2023/07/logo_mplus.jpg",
-                            "url": "https://tvboss.lat/ty/1/67",
-                            "referer" : "https://pepite.lat/",
+                            "url": "https://tossequip.net/embed/xfkc2i",
+                            "referer" : "https://tvboss.lat/",
                             "isHost": "true"  
                                   }, {
 	          "name": "Vamos 2",
@@ -657,7 +657,7 @@
 	          "name": "Vamos 3",
 	          "image": "https://www.movistarplus.es/recorte/m-DP/canal/MELLAV.png",
                             "url": "https://tvboss.lat/ty/1/64",
-                            "referer" : "https://pepite.lat/",
+                            "referer" : "https://tvboss.lat/",
                             "isHost": "true"
                                   }, {
 	          "name": "Baloncesto 4 M+",
@@ -1013,7 +1013,8 @@
                                                    	"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			      "url" :  "https://bp.zicotv.cc/api/player/4"
+			      "url" :  "https://bp.zicotv.cc/api/player/4",
+                                                                 "embed" : "true"
                                                         }, {
                         "name" : "86",
 			"name": "La Liga (opción 3)",
