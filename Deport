@@ -2095,6 +2095,14 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url": "https://sportzonline.click/channels/hd/hd6.php",
                   "isHost": "true" 
+                                     },{
+          "source": "sportsonline",
+          "name": "Stream 1",
+          "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg", 
+          "type": "iframe",
+          "url": "https://sportzonline.click/channels/hd/hd6.php/so/1",
+          "stable_url": null,
+          "referrer_policy": "no-referrer"
                                      }, {
 			"name": "Rai !",
 			"image": "https://thumbs.dreamstime.com/b/rai-uno-logo-132330942.jpg",
