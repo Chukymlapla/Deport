@@ -1013,8 +1013,9 @@
                                                    	"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			      "url" :  "https://zicotv.cc/api/player/4",
-                                   "embed" : "true"
+			      "url" :  "https://bp.zicotv.cc/api/player/4",
+                                  "isHost": "true",
+                                  "userAgent": "navigator"
                                                         }, {
                         "name" : "86",
 			"name": "La Liga (opción 3)",
