@@ -1013,7 +1013,8 @@
                                                    	"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			      "url" :  "https://zicotv.cc/api/player/4"
+			      "url" :  "https://zicotv.cc/api/player/4",
+                                   "embed" : "true"
                                                         }, {
                         "name" : "86",
 			"name": "La Liga (opción 3)",
@@ -1046,7 +1047,7 @@
 			"name": "La de España (opción 7)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://mediahostexpert.top/embed/player?config=c458790d-774e-4601-b10a-1fdd6f0b3e5e",
+			 "url" :  "https://mediahostexpert.top/embed/player?config=d3d7b109-3c92-476c-91a5-cbc8f7ffe467",
                             "referer" : "https://www.matchdirect.live/",
                                                        "isHost" : "true"
                                                           }, {
@@ -1598,25 +1599,29 @@
                                                           "referer" : "https://pepite.lat/",
                           "isHost": "true"  
                      }, {
-                        "name": "aw/ajaxw", 
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-         "url" : "https://p5.streamhostingcdn.top/stream/16/index.m3u8",
-			 "userAgent":""
+          "url" :  "https://streame.center/embed/ch1.php",
+			 "isHost":"true" 
                        }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-     "url" : "https://p5.streamhostingcdn.top/stream/24/index.m3u8",
-			 "userAgent":""
+      "url" :  "https://streame.center/embed/ch2.php",
+			 "isHost":"true" 
                       }, {
-			"name": "sportzon", 
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-       "url" : "https://p5.streamhostingcdn.top/stream/25/index.m3u8",
-			 "userAgent":""
+      "url" :  "https://streame.center/embed/ch9.php",
+			 "isHost":"true" 
+                         }, {
+			"name": "Partido en (Extranjero)",
+			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+      "url" :  "https://streame.center/embed/ch5.php",
+			 "isHost":"true"   
 		}]
 		}, {
 		"name": "Ligue 1  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -2062,15 +2067,13 @@
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		   "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://playerso.top/embed2.php?id=crich13",
-                "referer" : "https://tvseba7.blogspot.com/",
+		   "url": "https://tvseba7.blogspot.com/2025/05/www-tvseba-eu_71.html",
                   "isHost": "true"
                                                 }, {
 			"name": "TNT Sport 4-",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-				    "url": "https:////meritend.net/e/efuu8sinbyri4",
-                 "referer" : "https://elixx.info/aw/",
+				    "url": "https://tvseba7.blogspot.com/2025/09/www-tvseba-eu_83.html",
                   "isHost": "true" 
                                                     }, {
 			"name": "Artemis",
@@ -2094,11 +2097,11 @@
           "url": "https://sportzonline.click/channels/hd/hd6.php",
                   "isHost": "true" 
                                      }, {
-			"name": "Artemis+",
-			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
+			"name": "Rai !",
+			"image": "https://thumbs.dreamstime.com/b/rai-uno-logo-132330942.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url": "https://sportzonline.click/channels/hd/hd6.php",
-                "referer" : "https://sportlivesoft.xyz/",
+          "url": "https://mediahostexpert.top/embed/player?config=e1224167-52bb-4931-83ac-e3717119c59e",
+                "referer" : "https://www.matchdirect.live/",
                   "isHost": "true" 
 		}]
                                                       }, {
