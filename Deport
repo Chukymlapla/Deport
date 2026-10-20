@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  18-10-2026)",
+    "author": "chuky (Actualizada al  20-10-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -746,159 +746,163 @@
 		"info": "",
 		"stations": [{
                                                        "name": "Campeones 2",
-			"name": "LASK - Liverpool",
+			"name": "Fenerbahce vs Praga",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn",
-"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
-"isHost": "true"
+                                                  "url": "https://streamfree.pro/player.php?id=tiro4" 
                     }, {
                                                        "name": "Campeones 2",
-			"name": "LASK - Liverpool",
+			"name": "Fenerbahce vs Praga",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           		                 "url": "https://tvboss.lat/ty/1/165",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/165",
+           		                 "url": "https://embedme.click/player/3/162",
                           "isHost": "true" 
                     }, {
                                                        "name": "Campeones 3",
-			"name": "Feyenoord - Como",
+			"name": "Sabah FA vs Borussia Dortmund",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
-"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
-"isHost": "true"
+                                                  "url": "https://streamfree.pro/player.php?id=tiro5" 
                    }, {
                                                      "name": "Campeones 3",
-			"name": "Feyenoord - Como",
+			"name": "Sabah FA vs Borussia Dortmund",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           		                 "url": "https://tvboss.lat/ty/1/163",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/163",
-                          "isHost": "true" 
+           		               "url": "https://embedme.click/player/3/163",
+                          "isHost": "true"  
                           }, {
                                                        "name": "Campeones",
-			"name": "AS Roma - Real Madrid",
+			"name": "París Saint-Germain vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "channel_id": "6",
-          "type": "iframe",
           "url": "https://zicotv.cc/api/player/6",
-          "player_url": "https://zicotv.cc/api/player/6",
-          "hd": "true",
-          "language": "es",
-          "is_streaming": "true",
-          "viewers": 124,
-          "referrer_policy": "no-referrer"  
+          "embed": "true"  
                    }, {
                                                      "name": "Campeones",
-			"name": "AS Roma - Real Madrid",
+			"name": "París Saint-Germain vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           		                  "url": "https://tvboss.lat/ty/3/161",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/161",
+           		                  "url": "https://embedme.click/player/3/161",
                           "isHost": "true"    
                             }, {
                                                      "name": "Campeones",
-			"name": "AS Roma - Real Madrid",
+			"name": "París Saint-Germain vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			   "url": "https://emb.apl621.online/player/live.php?id=269087&w=728&h=480",
+			   "url": "https://matchli.st/embed.php?code=f868df7202d352f5",
+                                                           "referer" : "https://playfa.st/",
 "isHost": "true"
                                                    }, {
                                                      "name": "Campeones",
-			"name": "AS Roma - Real Madrid",
+			"name": "París Saint-Germain vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url": "https://la18hd.su/vivo/canales.php?stream=espn",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                                                       }, {
                                                       "name": "Campeones",
-			"name": "AS Roma - Real Madrid",
+			"name": "París Saint-Germain vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			 "url" :  "https://mediahostexpert.top/embed/player?config=2b03fafc-656e-4df7-9cc2-a620a5526af0",
                                                        "referer" : "https://www.matchdirect.live/",
                                                         "isHost": "true"
                                                           }, {
                                                      "name": "Campeones.",
-			"name": "AS Roma - Real Madrid",
+			"name": "París Saint-Germain vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           		                 "url": "https://streamfree.pro/player.php?id=tiro4" 
+           		                 "url": "https://streamfree.pro/player.php?id=tiro1" 
                                                          }, {
                                                            "name": "Campeones 2",
-			"name": "Betis - FC Porto",
+			"name": "Stuttgart - Atlético de Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
                                                    "url": "https://la18hd.su/vivo/canales.php?stream=espn7",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                     }, {
                                                        "name": "Campeones 2",
-			"name": "Betis - FC Porto",
+			"name": "Stuttgart - Atlético de Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           		                 "url": "https://tvboss.lat/ty/1/165",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/165",
-                          "isHost": "true" 
+           		                "url": "https://embedme.click/player/3/162",
+                          "isHost": "true"  
+                                                   }, {
+                                                       "name": "Campeones 2",
+			"name": "Stuttgart - Atlético de Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                                              "url" :  "https://mediahostexpert.top/embed/player?config=6181a880-0f13-4b11-b4d0-f737aa8e7a00",
+                            "referer" : "https://www.matchdirect.live/",
+                                                       "isHost" : "true"
+                                       }, {
+                                                       "name": "Campeones 2",
+			"name": "Stuttgart - Atlético de Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+           		                    "url": "https://streamfree.pro/player.php?id=tiro4" 
                                                  }, {
-                                                       "name": "Campeones 3",
-			"name": "Manchester City - PSG",
+                                                       "name": "Campeones 7",
+			"name": "Manchester City vs AEK Athens FC",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
+                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn5",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                    }, {
-                                                     "name": "Campeones 3",
-			"name": "Manchester City - PSG",
+                                                     "name": "Campeones 7",
+			"name": "Manchester City vs AEK Athens FC",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           		                 "url": "https://tvboss.lat/ty/1/163",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/163",
-                          "isHost": "true" 
+           		                "url": "https://embedme.click/player/3/167",
+                          "isHost": "true"  
                                                       }, {
-                                                       "name": "Campeones 5",
-			"name": "Shakhtar - AEK",
+                                                       "name": "Campeones 6",
+			"name": "Oporto vs PSV Eindhoven",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn10",
+                                                   "url": "https://la18hd.su/vivo/canales.php?stream=espn6",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                    }, {
                                                      "name": "Campeones 6",
-			"name": "Shakhtar - AEK",
+			"name": "Oporto vs PSV Eindhoven",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           		                 "url": "https://tvboss.lat/ty/1/166",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/166",
-                          "isHost": "true" 
+           		                "url": "https://embedme.click/player/3/166",
+                          "isHost": "true"  
                                                           }, {
                                                       "name": "Campeones 5",
-			"name": "Aston Villa - Fenerbahce",
+			"name": "Roma vs Slovan Bratislava",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                   "url": "https://tvboss.lat/ty/1/165",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/165",
-                          "isHost": "true" 
+		                "url": "https://embedme.click/player/3/165",
+                          "isHost": "true"  
                                                       }, {
                                                       "name": "Campeones 5",
-			"name": "Aston Villa - Fenerbahce",
+			"name": "Roma vs Slovan Bratislava",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
                                                     "url": "https://la18hd.su/vivo/canales.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                      }, {
                                                       "name": "Campeones 8",
-			"name": "Bratislava - Stuttgart",
+			"name": "Nápoles vs Bodø/Glimt",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			   "url": "https://tvboss.lat/ty/1/168",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/168",
-                          "isHost": "true" 
+			   "url": "https://embedme.click/player/3/168",
+                          "isHost": "true"  
                                              }, {
-                                                        "name": "Campeones 3",
-			"name": "Bratislava - Stuttgart",
+                                                        "name": "Campeones 8",
+			"name": "Nápoles vs Bodø/Glimt",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url": "https://la18hd.su/vivo/canales.php?stream=espn4",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                                                    }, {
                                                       "name": "Campeones 3",
-			"name": "Bodo/Glimt - Borussia Dortmund",
+			"name": "Liverpool vs Villarreal",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			   "url": "https://tvboss.lat/ty/1/167",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/167",
-                          "isHost": "true" 
+			  "url": "https://embedme.click/player/3/163",
+                          "isHost": "true"  
+                                                    }, {
+                                                      "name": "Campeones 3",
+			"name": "Liverpool vs Villarreal",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			  "url": "https://streamfree.pro/player.php?id=tiro5" 
+                                                  }, {
+                                                      "name": "Campeones 3",
+			"name": "Liverpool vs Villarreal",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			  "url": "https://emb.apl634.online/player/live.php?id=203920&w=728&h=480",
+                                                          "isHost" :  "true"
                                              }, {
                                                         "name": "Campeones 3",
-			"name": "Bodo/Glimt - Borussia Dortmund",
+			"name": "Liverpool vs Villarreal",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url": "https://la18hd.su/vivo/canales.php?stream=espn5",
+		                  "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                                               }, {
@@ -910,9 +914,8 @@
                      }, {
 			"name": "Multichampions",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url": "https://tvboss.lat/ty/1/164",
-                                                            "referer" : "https://tvboss.lat/part/Ll.php?id=1/164",
-                          "isHost": "true" 
+		                 "url": "https://embedme.click/player/3/164",
+                          "isHost": "true"  
                    }]
                                      }, {
 		"name": "UEFA Europa League 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -921,9 +924,8 @@
 		"stations": [{
                                    "name": "Campeones 1",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			   "url": "https://tvboss.lat/ty/3/161",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/161",
-                          "isHost": "true"    
+               			  "url": "https://embedme.click/player/3/161",
+                          "isHost": "true"  
                                          }, {
                                  "name": "Campeones 1",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
@@ -933,9 +935,8 @@
                                  }, {
                                  "name": "Campeones 2",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			      "url": "https://tvboss.lat/ty/3/162",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/162",
-                          "isHost": "true"    
+               			      "url": "https://embedme.click/player/3/162",
+                          "isHost": "true"  
                                    }, {
                                  "name": "Campeones 2",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
@@ -945,57 +946,48 @@
                                  }, {
                            "name": "Campeones 3",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			  "url": "https://tvboss.lat/ty/3/163",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/163",
-                          "isHost": "true"    
+               			 "url": "https://embedme.click/player/3/163",
+                          "isHost": "true"  
                                       }, {
                            "name": "Campeones 4",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			  "url": "https://tvboss.lat/ty/3/164",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/164",
-                          "isHost": "true"    
+               			"url": "https://embedme.click/player/3/164",
+                          "isHost": "true"  
                                          }, {
                            "name": "Campeones 5",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-               			   "url": "https://tvboss.lat/ty/3/165",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/165",
-                          "isHost": "true"    
+               			  "url": "https://embedme.click/player/3/165",
+                          "isHost": "true"  
                                                }, {
                                                       "name": "Campeones 6 ",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-			   "url": "https://tvboss.lat/ty/3/166",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/166",
-                          "isHost": "true"    
+			  "url": "https://embedme.click/player/3/166",
+                          "isHost": "true"  
                                             }, {
                                                       "name": "Campeones 7 ",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-			   "url": "https://tvboss.lat/ty/3/167",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/167",
-                          "isHost": "true"    
+			   "url": "https://embedme.click/player/3/167",
+                          "isHost": "true"  
                                              }, {
                                                       "name": "Campeones 8 ",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-			    "url": "https://tvboss.lat/ty/3/168",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/168",
-                          "isHost": "true"    
+			   "url": "https://embedme.click/player/3/168",
+                          "isHost": "true"  
                                               }, {
                                                       "name": "Campeones 9 ",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-			   "url": "https://tvboss.lat/ty/3/169",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/169",
-                          "isHost": "true"    
+			 "url": "https://embedme.click/player/3/169",
+                          "isHost": "true"  
                                                }, {
                                                       "name": "Campeones 10 ",
 			 "image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-			  "url": "https://tvboss.lat/ty/3/170",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/170",
-                          "isHost": "true"    
+			 "url": "https://embedme.click/player/3/170",
+                          "isHost": "true"  
                                               }, {
                                                       "name": "Multiuefa",
 			"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
-		                   "url": "https://tvboss.lat/ty/3/163",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/163",
-                          "isHost": "true"    
+		                  "url": "https://embedme.click/player/3/163",
+                          "isHost": "true"  
                                       }]
                                   },{
 		"name": "LaLiga EA Sports  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -1005,9 +997,8 @@
 			"name": "La Liga. (opción 1)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		           "url": "https://tvboss.lat/ty/3/49",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/49",
-                          "isHost": "true" 
+        		        "url": "https://embedme.click/player/3/49",
+                          "isHost": "true"  
                        }, {
                                                     "name": "La Liga 49-3",  
                                                    	"name": "La Liga (opción 2)",
@@ -1680,9 +1671,8 @@
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url": "https://tvboss.lat/ty/3/55",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/55",
-                          "isHost": "true"    
+              "url": "https://embedme.click/player/3/55",
+                          "isHost": "true"  
            }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
@@ -1699,16 +1689,14 @@
 			"name": "M-Campeones",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://tvboss.lat/ty/3/161",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/161",
-                          "isHost": "true"    
+			"url": "https://embedme.click/player/3/161",
+                          "isHost": "true"  
                            }, {
 			"name": "M-Campeones-2",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url": "https://tvboss.lat/ty/3/162",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/162",
-                          "isHost": "true"    
+			"url": "https://embedme.click/player/3/162",
+                          "isHost": "true"  
                             }, {
 			"name": "M-Campeones-2",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
@@ -1748,8 +1736,8 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://tvboss.lat/part/Ll.php?id=1/60",
-                                                                          "isHost" : "true"
+			 "url": "https://embedme.click/player/3/60",
+                          "isHost": "true"  
                                    }, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1890,8 +1878,7 @@
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                           "url": "https://tvboss.lat/ty/3/87",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/87",
+                          "url": "https://embedme.click/player/3/87",
                           "isHost": "true"    
                   },{
                     "name": "ESPN2-Argentina",
@@ -1905,17 +1892,15 @@
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                "url": "https://tvboss.lat/ty/3/88",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/88",
-                          "isHost": "true"    
+               "url": "https://embedme.click/player/3/88",
+                          "isHost": "true"  
                 },{
                     "name": "89", 
                     "name": "ESPN3-Argentina",
                     "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url": "https://tvboss.lat/ty/3/89",
-                                                             "referer" : "https://tvboss.lat/part/Ll.php?id=3/89",
-                          "isHost": "true"    
+                   "url": "https://embedme.click/player/3/89",
+                          "isHost": "true"  
                  },{
                     "name": "ESPN3-Argentina",
                     "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
