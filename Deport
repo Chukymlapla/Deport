@@ -1168,11 +1168,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			    "url": "https://streamfree.pro/player.php?id=tiro4" 
                           }, {
-                    "name": "DAZN Liga (Opción 3)",
+                    "name": "DAZN Liga. (Opción 3)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                 "url" : "https://zicotv.cc/api/player/1",
-			"userAgent" : "navigator"    
+                                 "url" : "https://bp.zicotv.cc/api/player/4",
+                                "referer" : "https://bp.zicotv.cc/channels/4",
+			"isHost" : "true"    
                                    }, {
                     "name": "DAZN Liga (Opción 4)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
