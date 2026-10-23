@@ -1761,15 +1761,7 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "channel_id": "4",
-          "type": "iframe",
-          "url": "https://zicotv.cc/api/player/11",
-          "player_url": "https://zicotv.cc/api/player/11",
-          "hd": "true",
-          "language": "es",
-          "is_streaming": "true",
-          "viewers": 124,
-          "referrer_policy": "no-referrer"    
+          "url": "https://bp.zicotv.cc/api/player/51186"
          }, {
 			"name": "Euro-Sport",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -1828,7 +1820,7 @@
 			"image": "https://i.ibb.co/5gQShxJz/toros.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
        "url" : "https://zicotv.cc/api/player/41969",
-			"isHost" : "true"    
+			"embed" : "true"    
                                     }, {
                                      "name": "TV3",
 			 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShns1jJEoVMPRyFtH3zimljVrXSoRD4zD9aA&s",
@@ -2089,11 +2081,8 @@
          "source": "own",
         "name": "Artemis",
          "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
-        "type": "iframe",
         "url": "https://bp.zicotv.cc/api/player/8",
-        "hd": true,
-        "language": "es",
-        "viewers": 42
+        "embed": true
                                        }, {
 			"name": "Artemis",
 			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
