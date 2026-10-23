@@ -770,7 +770,7 @@
                                                        "name": "Campeones",
 			"name": "Real Madrid vs RB Leipzig",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-          "url": "https://zicotv.cc/api/player/6",
+          "url": "https://bp.zicotv.cc/api/player/6",
           "embed": "true"  
                    }, {
                                                      "name": "Campeones",
@@ -1148,7 +1148,7 @@
                     "name": "La Seguda división España (opción 8.)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                 "url" :  "https://zicotv.cc/api/player/12",
+                 "url" :  "https://bp.zicotv.cc/api/player/12",
                           "embed" : "true"
 		}]
               },{
@@ -1196,8 +1196,8 @@
           "channel_id": "1",
           "name": "DAZN Liga (Opción 6)",
           "type": "iframe",
-          "url": "https://zicotv.cc/api/player/1",
-          "player_url": "https://zicotv.cc/api/player/1",
+          "url": "https://bp.zicotv.cc/api/player/1",
+          "player_url": "https://bp.zicotv.cc/api/player/1",
           "hd": "true",
           "language": "es",
           "is_streaming": "true",
@@ -1262,8 +1262,8 @@
           "channel_id": "3",
           "name": "DAZN 2",
           "type": "iframe",
-          "url": "https://zicotv.cc/api/player/3",
-          "player_url": "https://zicotv.cc/api/player/3",
+          "url": "https://bp.zicotv.cc/api/player/3",
+          "player_url": "https://bp.zicotv.cc/api/player/3",
           "hd": "true",
           "language": "es",
           "is_streaming": "true",
@@ -1366,17 +1366,8 @@
                       }, {
                         "name": "M-F1(OP-4)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "source": "own",
-          "channel_id": "11",
-          "type": "iframe",
-          "url": "https://zicotv.cc/api/player/11",
-          "player_url": "https://zicotv.cc/api/player/11",
-          "hd": "true",
-          "language": "es",
-          "is_streaming": "true",
-          "viewers": 124,
-          "referrer_policy": "no-referrer",    
+                                                      "https://xstream.st/hlsspanich.php?stream=H60",    
+                                        "referer" : "https://choc2foot.biz/",
             "isHost": "true"
                                        }, {
                   	"name": "M-F1(OP-5)",
@@ -1451,14 +1442,14 @@
 			"name": "Moto GP Op 6",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           "url" : "https://tvboss.lat/part/Ll.php?id=1/67",
+           "url" : "https://embedme.click/player/3/67",
                                                                           "isHost" : "true"
                       }, {
 			"name": "Moto GP Op 7",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url" :  "https://zicotv.cc/events/94050",
-            "isHost": "true"
+                   "url" :  "https://bp.zicotv.cc/events/94050",
+            "embed": "true"
                                          },{
                  	             "name": "Moto GP Op 8",
                 "image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
@@ -1567,8 +1558,8 @@
           "channel_id": "3",
           "name": "DAZN 2",
           "type": "iframe",
-          "url": "https://zicotv.cc/api/player/3",
-          "player_url": "https://zicotv.cc/api/player/3",
+          "url": "https://bp.zicotv.cc/api/player/3",
+          "player_url": "https://bp.zicotv.cc/api/player/3",
           "hd": "true",
           "language": "es",
           "is_streaming": "true",
@@ -1696,13 +1687,13 @@
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            		  "url" :  "https://zicotv.cc/api/player/9"
+            		  "url" :  "https://bp.zicotv.cc/api/player/9"
 		}, {
                                                     "name": "M-Campeones 61 3",
 			"name": "M-Campeones ",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		    "url" :  "https://zicotv.cc/api/player/6"
+		    "url" :  "https://bp.zicotv.cc/api/player/6"
         }, {
                                                       "name": "M-Campeones 61 1",
 			"name": "M-Campeones",
@@ -1720,7 +1711,7 @@
 			"name": "M-Campeones-2",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			         "url" :  "https://zicotv.cc/api/player/8"
+			         "url" :  "https://bp.zicotv.cc/api/player/8"
                             }, {  			
                                                        "name": "M-Deportes 62-1",
 			"name": "M-Deportes",
@@ -1734,7 +1725,7 @@
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                     "url" : "https://zicotv.cc/api/player/19",
+                     "url" : "https://bp.zicotv.cc/api/player/19",
 			 "isHost":"true"
                     }, {
 			"name": "lat63-1",                           
@@ -1761,7 +1752,8 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url": "https://bp.zicotv.cc/api/player/51186"
+          "url": "https://bp.zicotv.cc/api/player/11",
+               "embed" . "true"
          }, {
 			"name": "Euro-Sport",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -1819,7 +1811,7 @@
 			"name": "Toros",
 			"image": "https://i.ibb.co/5gQShxJz/toros.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-       "url" : "https://zicotv.cc/api/player/41969",
+       "url" : "https://bp.zicotv.cc/api/player/41969",
 			"embed" : "true"    
                                     }, {
                                      "name": "TV3",
