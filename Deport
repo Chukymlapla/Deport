@@ -1488,33 +1488,35 @@
 		"info": "",
 		"stations": [{
                         "name": "Lacio",
-			"name": "Opción - 1A",
+			"name": "Opción - 1",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-       "url" : "https://play.matchli.st/blue-spring.php?code=b428e37f3a1b7616",
-                "referer" : "https://playfa.st/",
-			 "isHost":"true"
+       "url": "https://s1.vertex.st/ch?id=11",
+           "isHost" : "true"
           }, {
-                        "name": "Lazio",
 			"name": "Opción - 2",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://p5.streamhostingcdn.top/stream/23/index.m3u8",
-			 "userAgent":""
+			 "url": "https://s1.vertex.st/ch?id=12",
+           "isHost" : "true"
            }, {
-                        "name": "juventus",
 			"name": "Opción - 3",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://p5.streamhostingcdn.top/stream/37/index.m3u8",
-			 "userAgent":""
+			 "url": "https://s1.vertex.st/ch?id=13",
+           "isHost" : "true"
           }, {
-                        "name": "everton",
 			"name": "Opción - 4",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://p5.streamhostingcdn.top/stream/64/index.m3u8",
-			 "userAgent":""
+			 "url": "https://s1.vertex.st/ch?id=14",
+           "isHost" : "true"
+                           }, {
+			"name": "Opción - 5",
+			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url": "https://s1.vertex.st/ch?id=15",
+           "isHost" : "true"
 		}]
 	}, {
 		"name": "Premier league 🏴  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1589,20 +1591,20 @@
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://streame.center/embed/ch1.php",
-			 "isHost":"true" 
+          "url": "https://s1.vertex.st/ch?id=5",
+           "isHost" : "true"
                        }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url" :  "https://streame.center/embed/ch2.php",
-			 "isHost":"true" 
+     "url": "https://s1.vertex.st/ch?id=6",
+           "isHost" : "true"
                       }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url" :  "https://streame.center/embed/ch9.php",
-			 "isHost":"true" 
+     "url": "https://s1.vertex.st/ch?id=9",
+           "isHost" : "true"
                          }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
@@ -2027,9 +2029,8 @@
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		     "url": "https://dervlin.me/sd0embed/football?pid=5&v=ip1&player=clappr&csrf=Njc5MmY2OTFlZTIzYjRjNTkxN2YwZTcxMzA1MzBhODUyYTZiYzI0N2Q1YWNjOWEwYTZjNzA3Y2FhOWEwMjUxYg.MTc5MjY5MzQxMA.MzcwMmYxZGRlZDhjMjkxNGJkYmIwYjA1MjljMDBkZDM2MGY3NjA0MDdlYzcyMjMxMWZhNjFkZWNiOTRiNDc4ZA&csrf_ip=Bs7ntftUfTOeBJn5TCYD6G9qCjAQP8yniXNCdjcXHbkFRWNGfowHZI9qxCN54%2Bf5vgUdvLXwkDdtElsIgmnh05Kcz0uC80Q4NCf%2BnbV%2BNT0CGFkehwfpp0eK89Y%3D&expires=1792693410&sec_hash=PA1YRYMbsvArLuRbjdudXQ",
-                                          "referer" : "https://soccerbox.st/",
-                  "isHost": "true"
+		   "url": "https://s1.vertex.st/ch?id=1",
+           "isHost" : "true"
                                                     }, {
 			"name": "TNT Sport 2.",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
