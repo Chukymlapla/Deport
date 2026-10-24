@@ -2076,15 +2076,17 @@
         "url": "https://bp.zicotv.cc/api/player/8",
         "embed": true
                                        }, {
-			"name": "Artemis",
+			"name": "Artemis+",
 			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url": "https://sportzonline.click/channels/hd/hd6.php",
+          "url": "https://footsuper.lol/tv.php?id=https://kora.st/ch?id=86",
+                     "referer" : "https://choc2foot.biz/",
                   "isHost": "true" 
                                      },{
-          "name": "prueba+",
+          "name": "prueba",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://emb.apl634.online/player/live.php?id=269105&w=728&h=480",
+          "url": "https://ordernap.net/embed/2twhx",
+             "referer" : "https://choc2foot.biz",
            "isHost" : "true"
                                      }, {
 			"name": "Rai !",
