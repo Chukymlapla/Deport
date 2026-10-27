@@ -1651,15 +1651,19 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
             		  "url" :  "https://bp.zicotv.cc/api/player/9"
 		}, {
-			"name": "M-Campeones. ",
+			"name": "M-Campeones",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		    "source": "own",
+		 "source": "own",
           "type": "iframe",
           "url": "https://bp.zicotv.cc/api/player/6",
-          "hd": "true",
+          "player_url": "https://bp.zicotv.cc/api/player/6",
+          "hd": true,
           "language": "es",
-          "viewers": 42
+          "is_streaming": true,
+          "is_premium": false,
+          "viewers": 124,
+          "referrer_policy": "no-referrer"
         }, {
 			"name": "M-Campeones",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
