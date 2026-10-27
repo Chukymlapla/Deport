@@ -1651,22 +1651,26 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
             		  "url" :  "https://bp.zicotv.cc/api/player/9"
 		}, {
-                                                    "name": "M-Campeones 61 3",
-			"name": "M-Campeones ",
+			"name": "M-Campeones. ",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		    "url" :  "https://bp.zicotv.cc/api/player/6"
+		    "source": "own",
+          "type": "iframe",
+          "url": "https://bp.zicotv.cc/api/player/6",
+          "hd": "true",
+          "language": "es",
+          "viewers": 42
         }, {
 			"name": "M-Campeones",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url": "https://embedme.click/player/3/161",
+			"url": "https://embedme.click/player/3/61",
                           "isHost": "true"  
                            }, {
 			"name": "M-Campeones-2",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url": "https://embedme.click/player/3/162",
+			"url": "https://embedme.click/player/3/62",
                           "isHost": "true"  
                             }, {
 			"name": "M-Campeones-2",
