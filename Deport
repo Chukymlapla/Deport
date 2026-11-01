@@ -2039,13 +2039,18 @@
                                      },{
           "name": "prueba1+",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://rippleplays.cfd/newhub/stream-4.php",
-           "userAgent" : "typeof navigator"
+          "url": "https://trxndy48.st/event/m-elche-vs-valencia-1101",
+           "referer" : "https://live2.totalsportek.today/",
+              "isHost" : "true"
                                    },{
           "name": "prueba2+",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://rippleplays.cfd/newhub/stream-4.php",
-             "userAgent" : "navigator"      
+          "url": "https://trxndy48.st/event/m-elche-vs-valencia-1101"   
+                                     },{
+          "name": "prueba3+",
+          "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
+          "url": "https://trxndy48.st/event/m-elche-vs-valencia-1101",
+              "isHost" : "true"   
                                       }, {
 			"name": "Artemis+",
 			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
