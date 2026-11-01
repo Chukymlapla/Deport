@@ -2040,16 +2040,18 @@
           "name": "prueba1+",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
           "url": "https://1ststreams.cfd/stream/stream-84.php",
-              "isHost" : "true"
+              "embed" : "true"
                                    },{
           "name": "prueba2+",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://1ststreams.cfd/stream/stream-86.php"   
+          "url": "https://matchli.st/embed-edge.php?code=b69a865dcaf91253",
+           "referer" : "https://ch.nexa.st/",
+              "isHost" : "true"   
                                      },{
           "name": "prueba3+",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://1ststreams.cfd/stream/stream-84.php",
-           "referer" : "https://1ststreams.xyz/",
+          "url": "https://matchli.st/embed-edge.php?code=b69a865dcaf91253",
+           "referer" : "https://s1.virazo.sx/",
               "isHost" : "true"   
                                       }, {
 			"name": "Artemis+",
