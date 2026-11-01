@@ -2039,17 +2039,17 @@
                                      },{
           "name": "prueba1",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://ripple.kora.st/ch?id=86",
-           "referer" : "https://alphastreams.mom/",
+          "url": "https://ch.nexa.st/stream?id=86",
+           "referer" : "https://rainostreams.lol/",
               "isHost" : "true"
                                    },{
-          "name": "prueba2+",
+          "name": "prueba2",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://trxndy48.st/event/m-elche-vs-valencia-1101"   
+          "url": "https://ch.nexa.st/stream?id=86"   
                                      },{
-          "name": "prueba3+",
+          "name": "prueba3",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
-          "url": "https://trxndy48.st/event/m-elche-vs-valencia-1101",
+          "url": "https://ch.nexa.st/stream?id=86",
               "isHost" : "true"   
                                       }, {
 			"name": "Artemis+",
