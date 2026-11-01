@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al  25-10-2026)",
+    "author": "chuky (Actualizada al  01-11-2026)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "telegram": "+rvlnLxcvsGY1NmZk",
     "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport", 
@@ -637,45 +637,40 @@
             "stations": [{
                                 "name": "Baloncesto M+",
 	          "image": "https://www.movistarplus.es/recorte/n/caratula5/M2562138V4305140",
-                              "url": "https://tvboss.lat/ty/3/62",
-                                                             "referer" : "https://embedme.click/player/3/62",
+                              "url": "https://embedme.click/player/3/62",
                           "isHost": "true"    
                                 }, {
 	          "name": "M+",
 	          "image": "https://www.mundoplus.tv/wp-content/uploads/2023/07/logo_mplus.jpg",
-                               "url": "https://tvboss.lat/ty/3/67",
-                                                             "referer" : "https://embedme.click/player/3/67",
+                               "url": "https://embedme.click/player/3/67",
                           "isHost": "true"    
                                   }, {
 	          "name": "Vamos 2",
 	          "image": "https://www.mundoplus.tv/wp-content/uploads/2025/11/movistarplus_vamos2_logo-1068x601.jpg",
-                              "url": "https://tvboss.lat/ty/3/65",
-                                                             "referer" : "https://embedme.click/player/3/65",
+                              "url": "https://embedme.click/player/3/65",
                           "isHost": "true"    
                                       }, {
 	          "name": "Vamos 3",
 	          "image": "https://www.movistarplus.es/recorte/m-DP/canal/MELLAV.png",
-                             "url": "https://tvboss.lat/ty/3/64",
-                                                             "referer" : "https://embedme.click/player/3/64",
+                             "url": "https://embedme.click/player/3/64",
                           "isHost": "true"    
                                   }, {
 	          "name": "Baloncesto 4 M+",
 	          "image": "https://www.movistarplus.es/recorte/n/caratula5/M2669314V4403884",
-                             "url": "https://tvboss.lat/ty/3/63",
-                                                             "referer" : "https://embedme.click/player/3/63",
+                             "url": "https://embedme.click/player/3/63",
                           "isHost": "true"    
                                    }, {
 	          "name": "Baloncesto 5 M+",
 	          "image": "https://www.movistarplus.es/recorte/n/caratula5/M2669999V4403916",
-                            "url": "https://tvboss.lat/ty/1/66",
-                           "referer" : "https://pepite.lat/",
+                            "url": "https://embedme.click/player/3/66",
                             "isHost": "true"   
                                 }, {
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                     "url" : "https://cdx-08192.website/play/movistardeportes-es",
-			"isHost" : "true"    
+                                         "url": "https://mediahostexpert.top/embed/player?config=9a7ae336-1daa-4b15-ab9d-09becf281126",
+                                                         "referer" : "https://www.matchdirect.live/",
+           "isHost" : "true"
                 },{ 
                     "name": "lat62",
                     "name": "Opción 2(M-Deportes)",
@@ -1176,7 +1171,7 @@
                     "name": "DAZN Liga (Opción 5)",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                        "url": "https://s1.vertex.st/ch?id=86",
+                                        "url": "https://emb.apl642.online/player/live.php?id=269916&w=728&h=480",
            "isHost" : "true"
                        }, {
                           "name": "DAZN Liga (Opción 6)",
@@ -1279,7 +1274,7 @@
                 "name": "(DAZN Basket 1)",
                     "image": "https://i.ibb.co/GQX9ftN9/acuerdo-de-baloncesto-entre-movistar-plus-y-dazn.webp",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                 "url" : "https://emb.apl613.online/player/live.php?id=268048&w=728&h=480",
+                 "url" : "https://emb.apl642.online/player/live.php?id=268610&w=728&h=480",
              "isHost": "true"  
 	          },{ 
                  "name": "(DAZN Basket 2)",
@@ -1294,13 +1289,13 @@
                                                              "url" : "https://embedme.click/player/3/63",
                           "isHost": "true"    
                          },{ 
-               "name": "(DAZN Basket 3)",
+               "name": "(DAZN Basket 4)",
 			"image": "https://i.ibb.co/GQX9ftN9/acuerdo-de-baloncesto-entre-movistar-plus-y-dazn.webp",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                                                              "url" : "https://embedme.click/player/3/64",
                           "isHost": "true"    
                     },{ 
-               "name": "(DAZN Basket 4)",
+               "name": "(DAZN Basket 5)",
 			"image": "https://i.ibb.co/GQX9ftN9/acuerdo-de-baloncesto-entre-movistar-plus-y-dazn.webp",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                              "url": "https://mediahostexpert.top/embed/player?config=6181a880-0f13-4b11-b4d0-f737aa8e7a00",
@@ -1321,7 +1316,8 @@
           "name": "M-F1(OP-2)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url": "https://s1.vertex.st/ch?id=29",
+			   "url": "https://mediahostexpert.top/embed/player?config=10cf16e3-46cd-4b99-851f-a418e87cfbdf",
+                                                         "referer" : "https://www.matchdirect.live/",
            "isHost" : "true"
                    }, {
                                                      "name": "M-F1(OP-3)",
@@ -1339,8 +1335,8 @@
                   	"name": "M-F1(OP-5)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  	 "url": "https://deporte7-libre.live/mpd2.php?id=formula1-op3",
-                                             "referer" : "https://deporte7-libre.live/total/stream-537.php",
+                  	 "url": "https://dembed.st/premiumtv/daddy.php?id=537",
+                                             "referer" : "https://thedaddy.pk/",
                                                       "isHost" : "true"
                                         }, {
                   	"name": "M-F1(OP-6-)",
@@ -1365,9 +1361,9 @@
 			"name": "M-F1-Inglés",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYwE74Kb7H4QnVRzNRfSNva9LFmatr6GfXw&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                         "url" : "https://www.betas.cfd/page.php?hash=gostosa58&ad=8654222&ud=OTUuMTYuMTIyLjYw&td=1792858600",
-                                                      "referer" : "https://gostosura.xyz/",
-			"isHost": "true"
+                                        "url": "https://mediahostexpert.top/embed/player?config=d30d2282-fb5e-469f-8490-752e3f0a8993",
+                                                         "referer" : "https://www.matchdirect.live/",
+           "isHost" : "true"
 	              }, {
                                                        "name": "Moto 29",
 			"name": "Moto GP OP 1",
@@ -1653,16 +1649,9 @@
 			"name": "M-Campeones",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "source": "own",
-          "type": "iframe",
-          "url": "https://bp.zicotv.cc/api/player/6",
-          "player_url": "https://bp.zicotv.cc/api/player/6",
-          "hd": true,
-          "language": "es",
-          "is_streaming": true,
-          "is_premium": false,
-          "viewers": 124,
-          "referrer_policy": "no-referrer"
+		 "url" :  "https://mediahostexpert.top/embed/player?config=2b03fafc-656e-4df7-9cc2-a620a5526af0",
+                                                       "referer" : "https://www.matchdirect.live/",
+                                                        "isHost": "true"
         }, {
 			"name": "M-Campeones",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
@@ -1685,9 +1674,9 @@
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url" : "https://zonatv.sbst/canales/deportes/",
-                     "referer" : "https://zonatv.sbst/canales.php?id=mdeportes",
-			 "isHost":"true"
+                  "url": "https://mediahostexpert.top/embed/player?config=9a7ae336-1daa-4b15-ab9d-09becf281126",
+                                                         "referer" : "https://www.matchdirect.live/",
+           "isHost" : "true"
                             }, {  			
                                                        "name": "M-Deportes 62-3",
 			"name": "M-Deportes",
