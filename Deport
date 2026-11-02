@@ -1837,6 +1837,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                           "url": "https://embedme.click/player/3/87",
                           "isHost": "true"    
+                     },{
+                    "name": "ESPN-Argentina",
+                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                          "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+                          "userAgent": ""    
                   },{
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
@@ -1851,6 +1857,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                "url": "https://embedme.click/player/3/88",
                           "isHost": "true"  
+                     },{
+                    "name": "ESPN2-Argentina",
+                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+             "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+                          "userAgent": ""    
                 },{
                     "name": "89", 
                     "name": "ESPN3-Argentina",
@@ -1865,6 +1877,36 @@
                "url": "https://la18hd.su/vivo/canales.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
+                         },{
+                    "name": "ESPN3-Argentina",
+                    "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+                          "userAgent": ""    
+                         },{
+                    "name": "ESPN4-Argentina",
+                    "image": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+                          "userAgent": ""    
+                        },{
+                    "name": "ESPN5-Argentina",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+                          "userAgent": ""    
+                         },{
+                    "name": "ESPN6-Argentina",
+                    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/3840px-ESPN_6_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+                          "userAgent": ""    
+                            },{
+                    "name": "ESPN7-Argentina",
+                    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/3840px-ESPN_7_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+                          "userAgent": ""    
                         }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
