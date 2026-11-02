@@ -1709,6 +1709,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url": "https://bp.zicotv.cc/api/player/11",
                "embed" : "true"
+                             }, {
+			"name": "Rally TV",
+			"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1sdqhvv56vr5n1o4rpmkjwssgi_image-header_pEs_1716381320000&quality=70",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+          "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
+               "userAgent" : ""
          }, {
 			"name": "Euro-Sport",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -1952,8 +1958,9 @@
 			"name": "Sky Sport footbal",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://deporte-libre.buzz/total/stream-130.php",
-			 "isHost":"true"
+			"url": "https://mediahostexpert.top/embed/player?config=2e2cda7f-22c7-406e-8cd9-f9e00f817b48",
+                                                            "referer" : "https://www.matchdirect.live/",
+                          "isHost": "true" 
 			 }, {
               "name": "sky sport darts",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
@@ -2038,28 +2045,30 @@
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		   "url": "https://s1.vertex.st/ch?id=1",
-           "isHost" : "true"
+		   "url": "https://mediahostexpert.top/embed/player?config=31ae2e67-f413-4f64-935d-380976ccf29b",
+                                                            "referer" : "https://www.matchdirect.live/",
+                          "isHost": "true" 
                                                     }, {
 			"name": "TNT Sport 2.",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		  "url" : "https://generalpilli.net/embed/g3cxfy",
-                  "referer" : "https://s1.vertex.st/",
-            "isHost": "true"
+		   "url": "https://mediahostexpert.top/embed/player?config=b57f4e59-378b-4887-bc41-2a6a57171f75",
+                                                            "referer" : "https://www.matchdirect.live/",
+                          "isHost": "true" 
                                                  }, {
-			"name": "TNT Sport 3+",
+			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		   "url": "https://tflix.su/channel/espn-deportes-cb4af27f",
-                  "isHost": "true"
+		  "url": "https://mediahostexpert.top/embed/player?config=dcc44901-85af-4da3-8e81-2f3c3d22d012",
+                                                            "referer" : "https://www.matchdirect.live/",
+                          "isHost": "true"
                                                 }, {
-			"name": "TNT Sport 4-",
+			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-				    "url": "https://www.betas.cfd/page.php?hash=gostosa3&ad=5740049&ud=OTUuMTYuMTIyLjYw&td=1792601802",
-                                     "referer" : "https://gostosura.xyz/",
-                  "isHost": "true" 
+				   "url": "https://mediahostexpert.top/embed/player?config=9d9710d4-c624-448c-952f-203cd732e214",
+                                                            "referer" : "https://www.matchdirect.live/",
+                          "isHost": "true"
                                                     }, {
 			"name": "Artemis",
 			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
