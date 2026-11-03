@@ -740,23 +740,27 @@
 		"info": "",
 		"stations": [{
                                                        "name": "Campeones 2",
-			"name": "Como vs Manchester United",
+			"name": "Shakhtar Donetsk vs Sporting Lisbon",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                  "url": "https://streamfree.pro/player.php?id=tiro4" 
+                                                  "url": "https://watchfa.st/embed-edge.php?code=8e32d4221d8f9a0d&page_host=fsportshdz.xyz&page_title=Shakhtar%20Donetsk%20vs%20Sporting%20Lisbon%20Live%20Streaming",
+                        "referer" : "https://fsportshdz.xyz/",
+            "isHost": "true"    
                     }, {
                                                        "name": "Campeones 2",
-			"name": "Como vs Manchester United",
+			"name": "Shakhtar Donetsk vs Sporting Lisbon",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                 "url": "https://embedme.click/player/3/162",
                           "isHost": "true" 
                     }, {
                                                        "name": "Campeones 3",
-			"name": "Lille vs Galatasaray",
+			"name": "Galatasaray vs Stuttgart",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                  "url": "https://streamfree.pro/player.php?id=tiro5" 
+                                                  "url": "https://watchfa.st/embed-edge.php?code=c1d27ab4c371383d&page_host=fsportshdz.xyz&page_title=Galatasaray%20vs%20Stuttgart%20Live%20Streaming",
+                        "referer" : "https://fsportshdz.xyz/",
+            "isHost": "true"    
                    }, {
                                                      "name": "Campeones 3",
-			"name": "Lille vs Galatasaray",
+			"name": "Galatasaray vs Stuttgart",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		               "url": "https://embedme.click/player/3/163",
                           "isHost": "true"  
