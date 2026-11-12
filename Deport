@@ -2102,28 +2102,23 @@
                                                             "referer" : "https://www.matchdirect.live/",
                           "isHost": "true"
                                                     }, {
-			"name": "Artemis",
+			"name": "Artemis1",
 			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-				   "source": "own",
-         "source": "own",
-        "name": "Artemis1",
          "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
         "url": "https://edge.wedd48c.top/premium1/index.m3u8?t=1794510514.444c6f4e6c0a031eeb7162a3e2f108b5&_=1794510458648",
-              "userAgent" : ""
+         "userAgent" : "navigator"
                                        }, {
 			"name": "Artemis+",
 			"image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url": "https://dembed.st/premiumtv/player.php?id=1",
-                   "referer" : "https://rippleplays.cfd/",
               "userAgent" : "navigator"
                                      },{
           "name": "prueba1+",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
           "url": "https://dembed.st/premiumtv/1ststreams.php?id=84",
-                 "referer" : "https://1ststreams.cfd/",
-              "isHost" : "true"
+         "userAgent" : "navigator"
                                    },{
           "name": "prueba2",
           "image": "https://static.eldiario.es/clip/1dbb25ae-50eb-4b12-8e8c-b87f5b91330f_16-9-discover-aspect-ratio_default_0.jpg",       
@@ -2144,7 +2139,8 @@
           "is_streaming": "true",
           "is_premium": "false",
           "viewers": "124",
-          "referrer_policy": "no-referrer"
+          "referrer_policy": "no-referrer",
+                   "userAgent" : "navigator"
                                      }, {
 			"name": "Rai !",
 			"image": "https://thumbs.dreamstime.com/b/rai-uno-logo-132330942.jpg",
