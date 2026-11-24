@@ -763,12 +763,6 @@
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		               "url": "https://embedme.click/player/3/163",
                           "isHost": "true"  
-                          }, {
-                                                       "name": "Campeones",
-			"name": "Real Madrid - PSV Eindhoven",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-          "url": "https://bp.zicotv.cc/api/player/6",
-          "embed": "true"  
                    }, {
                                                      "name": "Campeones",
 			"name": "Real Madrid - PSV Eindhoven",
@@ -801,6 +795,12 @@
            		                  "url" :  "https://mediahostexpert.top/embed/player?config=6181a880-0f13-4b11-b4d0-f737aa8e7a00",
                             "referer" : "https://www.matchdirect.live/",
                                                        "isHost" : "true"
+                                                          }, {
+                                                       "name": "Campeones",
+			"name": "Real Madrid - PSV Eindhoven",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+          "url": "https://bp.zicotv.cc/api/player/6",
+          "embed": "true"   
                     }, {
                                                        "name": "Campeones 2",
 			"name": "Slovan Bratislava - Betis",
